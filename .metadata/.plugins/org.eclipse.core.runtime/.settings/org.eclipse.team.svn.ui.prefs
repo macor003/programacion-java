@@ -22,3 +22,4 @@ org.eclipse.team.svn.ui.panel.local.UpdateToRevisionPanel.width=470
 org.eclipse.team.svn.ui.panel.reporting.ErrorCancelPanel.height=136
 org.eclipse.team.svn.ui.panel.reporting.ErrorCancelPanel.width=640
 preference.core.svnconnector=org.eclipse.team.svn.connector.javahl18
+preference.decoration.use.fontdecor=true
