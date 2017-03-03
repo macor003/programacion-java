@@ -1,0 +1,109 @@
+2017-03-02 18:48:03,852 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-03-02 18:48:04,137 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-03-02 18:48:04,496 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-03-02 18:48:04,755 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-03-02 19:07:28,645 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/administrador/workspace/PERSONAL/gs-maven/pom.xml
+2017-03-02 19:07:30,874 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0-SNAPSHOT @ /home/administrador/workspace/PERSONAL/gs-maven/pom.xml.
+2017-03-02 19:07:32,839 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven/src/main/java
+2017-03-02 19:07:32,842 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-maven/src/test/java
+2017-03-02 19:07:33,963 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2017-03-02 19:07:35,586 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:07:35,586 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:07:35,593 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:07:35,593 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:10:54,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:10:54,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:10:54,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:10:54,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:13:39,860 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:13:39,861 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:13:39,863 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:13:39,863 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:14:11,362 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:14:11,363 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:14:11,364 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:14:11,365 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:14:41,754 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:14:41,754 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:14:41,756 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:14:41,756 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:18:37,419 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:18:37,419 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:18:37,420 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:18:37,421 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:19:11,592 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:19:11,592 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:19:11,594 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:19:11,594 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:20:03,986 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:20:03,986 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:20:03,989 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:20:03,989 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:21:02,996 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/administrador/workspace/PERSONAL/gs-maven/pom.xml.
+2017-03-02 19:21:03,256 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:21:03,257 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:21:03,259 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:21:03,260 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:21:59,634 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.jar
+2017-03-02 19:21:59,896 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.jar
+2017-03-02 19:22:00,507 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/administrador/workspace/PERSONAL/gs-maven/pom.xml.
+2017-03-02 19:22:00,736 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:22:00,736 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:22:00,744 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:22:00,744 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:22:00,999 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.pom
+2017-03-02 19:22:01,257 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.pom
+2017-03-02 19:39:44,993 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/administrador/workspace/PERSONAL/gs-maven/pom.xml.
+2017-03-02 19:39:45,354 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:39:45,354 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:39:45,356 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:39:45,356 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:39:46,765 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:39:46,765 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:39:46,767 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:39:46,767 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:41:39,771 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:41:39,771 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:41:39,772 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:41:39,772 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:45:55,509 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:45:55,509 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:45:55,517 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:45:55,517 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:53:50,741 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/administrador/workspace/PERSONAL/gs-maven/pom.xml.
+2017-03-02 19:53:51,377 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:53:51,378 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:53:51,380 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:53:51,380 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:53:52,825 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:53:52,825 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:53:52,827 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:53:52,828 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:54:50,606 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:54:50,608 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:54:50,610 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:54:50,610 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 19:55:22,572 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:55:22,575 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 19:55:22,595 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 19:55:22,595 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 20:00:06,457 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:00:06,457 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 20:00:06,459 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:00:06,459 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 20:06:10,142 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:06:10,152 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 20:06:10,153 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:06:10,154 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 20:06:37,540 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:06:37,540 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 20:06:37,541 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:06:37,541 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 20:07:34,862 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:07:34,862 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 20:07:34,874 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:07:34,874 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-03-02 20:07:40,444 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:07:40,444 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
+2017-03-02 20:07:40,445 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-02 20:07:40,445 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources

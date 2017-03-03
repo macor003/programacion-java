@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/60ec281c4cfa001410dedaa1dd1cfab6=60ec281c4cfa001410dedaa1dd1cfab6;svn\://svn.epa.com/Ventas/CRv2/;svn\://svn.epa.com/Ventas/CRv2/;branches;tags;trunk;true;58ff0d3d-0562-554a-9644-ec93ca235b5e;svn\://svn.epa.com/Ventas;;false;;;0
+repositories/a0e522c406e20014100fd0ac4e7a4738=a0e522c406e20014100fd0ac4e7a4738;svn\://svn.epa.com/Ventas/CRv2/SoporteSVN/tag/s43_2013;svn\://svn.epa.com/Ventas/CRv2/SoporteSVN/tag/s43_2013;branches;tags;trunk;true;58ff0d3d-0562-554a-9644-ec93ca235b5e;svn\://svn.epa.com/Ventas;;false;<svn\://svn.epa.com\:3690> Repositorio de Ventas;;0
+repositories/b033497f12e20014100fd0ac4e7a4738=b033497f12e20014100fd0ac4e7a4738;svn\://svn.epa.com/Ventas/CRv2/CRPrinterTesting;svn\://svn.epa.com/Ventas/CRv2/CRPrinterTesting;branches;tags;trunk;true;58ff0d3d-0562-554a-9644-ec93ca235b5e;svn\://svn.epa.com/Ventas;;false;<svn\://svn.epa.com\:3690> Repositorio de Ventas;;0
+repositories/e001d3b04afa001410dedaa1dd1cfab6=e001d3b04afa001410dedaa1dd1cfab6;svn\://svn.epa.com/Snapshots;svn\://svn.epa.com/Snapshots;branches;tags;trunk;true;cf25a054-c81c-11e4-a6fa-997a88b248a2;svn\://svn.epa.com/Snapshots;;false;;;0
+synch_info/contigous=true
