@@ -1,11 +1,11 @@
 package com.javacodegeeks.junit;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Ignore;
 import org.junit.Test;
 
-@Ignore
+
 public class FirstDayAtSchoolTest {
 
 	FirstDayAtSchool school = new FirstDayAtSchool();
@@ -17,7 +17,6 @@ public class FirstDayAtSchoolTest {
 		System.out.println("Inside testPrepareMyBag()");
 		assertArrayEquals(bag1, school.prepareMyBag());
 	}
-
 	
 	@Test
 	public void testAddPencils() {

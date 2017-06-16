@@ -228,3 +228,21 @@ org.eclipse.core.runtime.CoreException: Launch configuration HelloWorld referenc
 2017-03-03 15:01:13,942 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/main/resources
 2017-03-03 15:01:13,947 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-03 15:01:13,947 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/administrador/workspace/PERSONAL/gs-maven/src/test/resources
+2017-06-14 09:50:24,193 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.jar
+2017-06-14 09:50:24,566 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.jar
+2017-06-14 09:50:31,011 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/pom.xml.
+2017-06-14 09:50:33,819 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 09:50:33,819 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/src/main/resources
+2017-06-14 09:50:33,823 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 09:50:33,824 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/src/test/resources
+2017-06-14 09:50:34,253 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.pom
+2017-06-14 09:50:34,467 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repositoriomaven.epa.com/nexus/content/groups/public/org/apache/maven/plugins/maven-shade-plugin/2.1/maven-shade-plugin-2.1.pom
+2017-06-14 09:50:37,310 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 09:50:37,311 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/src/main/resources
+2017-06-14 09:50:37,314 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 09:50:37,314 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/src/test/resources
+2017-06-16 14:51:04,744 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-maven:0.1.0 @ /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/pom.xml.
+2017-06-16 14:51:05,711 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-16 14:51:05,711 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/src/main/resources
+2017-06-16 14:51:05,716 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-16 14:51:05,716 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/Ejemplos/programacion-java/gs-maven/src/test/resources

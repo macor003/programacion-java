@@ -1,6 +1,7 @@
 package com.javacodegeeks.junit;
 
 import static org.junit.Assert.assertEquals;
+
 import java.util.Arrays;
 import java.util.Collection;
 
@@ -11,6 +12,10 @@ import org.junit.runners.Parameterized.Parameters;
 
 @RunWith(Parameterized.class)
 public class CalculateTest {
+
+	Calculate calculation = new Calculate();
+	int sum = calculation.sum(2, 5);
+	int testSum = 7;
 
 	private int expected;
 	private int first;
@@ -24,15 +29,13 @@ public class CalculateTest {
 
 	@Parameters
 	public static Collection<Integer[]> addedNumbers() {
-		return Arrays.asList(new Integer[][] { { 3, 1, 2 }, { 5, 2, 3 },
-				{ 7, 3, 4 }, { 9, 4, 5 }, });
+		return Arrays.asList(new Integer[][] { { 3, 1, 2 }, { 5, 2, 3 }, { 7, 3, 4 }, { 9, 4, 5 }, });
 	}
 
 	@Test
 	public void sum() {
 		Calculate add = new Calculate();
-		System.out.println("Addition with parameters : " + first + " and "
-				+ second);
+		System.out.println("Addition with parameters : " + first + " and " + second);
 		assertEquals(expected, add.sum(first, second));
 	}
 }
