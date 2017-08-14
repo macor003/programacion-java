@@ -2517,3 +2517,8 @@ java.lang.IllegalStateException: Call stack for thread main
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.core.resources 2 2 2017-08-14 13:11:39.931
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-08-14 13:11:39.931
+!MESSAGE The project description file (.project) for 'CodeWars' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
