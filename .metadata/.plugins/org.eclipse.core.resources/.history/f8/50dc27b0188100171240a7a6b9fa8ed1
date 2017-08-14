@@ -1,0 +1,16 @@
+package com.macor.CodeWars;
+
+public class RockPaperScissors {
+
+	public static void main(String[] args) {
+
+		String player1 = "rock";
+		String player2 = "scissors";		
+		
+		if(player1 == player2) {
+			System.out.println("Draw!");
+		}
+
+	}
+
+}

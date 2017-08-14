@@ -1,0 +1,21 @@
+package com.macor.CodeWars;
+
+public class SumOfNumbers {
+
+	public static void main(String[] args) {
+		int a = 0;
+		int b = -1;
+
+		
+		int max = Math.max(a, b);
+		int result = 0;
+		
+		for (int min = Math.min(a, b); min < max; min++) {
+			result += min;
+		}
+
+		System.out.println(result);
+
+	}
+
+}

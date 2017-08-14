@@ -1,0 +1,13 @@
+package com.macor.CodeWars;
+
+public class RockPaperScissors {
+
+	public static void main(String[] args) {
+
+		String rock = "rock";
+		String paper = "paper";
+		String scissors = "scissors";
+
+	}
+
+}
