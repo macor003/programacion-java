@@ -1,6 +1,12 @@
-backgroundColor=36,36,36
-commentColor=153,150,139
+backgroundColor=32,36,37
+commentColor=199,221,12
 eclipse.preferences.version=1
-keyColor=246,243,232
-separatorColor=246,243,232
-valueColor=149,228,84
+keyColor=216,216,216
+overriddenByCSS=,separatorColor,backgroundColor,keyColor,commentColor,valueColor,
+predarkestdark.backgroundColor=36,36,36
+predarkestdark.commentColor=153,150,139
+predarkestdark.keyColor=246,243,232
+predarkestdark.separatorColor=246,243,232
+predarkestdark.valueColor=149,228,84
+separatorColor=216,216,216
+valueColor=255,198,0
