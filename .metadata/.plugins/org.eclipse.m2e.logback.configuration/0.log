@@ -3795,3 +3795,15 @@ java.io.FileNotFoundException: /home/epa.com/eve0018536/workspaces/programacion-
 2017-08-15 16:42:47,496 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/main/resources
 2017-08-15 16:42:47,497 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-08-15 16:42:47,497 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/test/resources
+2017-08-15 16:43:40,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-15 16:43:40,506 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/main/resources
+2017-08-15 16:43:40,508 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-15 16:43:40,508 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/test/resources
+2017-08-15 16:43:51,867 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-15 16:43:51,868 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/main/resources
+2017-08-15 16:43:51,869 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-15 16:43:51,869 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/test/resources
+2017-08-15 16:44:30,411 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-15 16:44:30,412 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/main/resources
+2017-08-15 16:44:30,413 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-15 16:44:30,413 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/epa.com/eve0018536/workspaces/programacion-java/CodeWars/src/test/resources
