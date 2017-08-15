@@ -7,9 +7,8 @@ public class SumOfNumbers {
 		/*
 		 * @author: Mario Ortega
 		 * 
-		 * @version: 14/08/2017 Sum of Number CodeWars. I did it the first
-		 * solution The second one was made it by the community of CodeWars. The sysout
-		 * are return
+		 * @version: 14/08/2017 Sum of Number CodeWars. I did the first solution The
+		 * second one was made it by the community of CodeWars. The sysout are return
 		 */
 
 		int a = -1;

@@ -42,6 +42,24 @@
 			<item value="[name]"/>
 		</list>
 	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="com.macor.JUnitGuide"/>
+			<item value="JUnitGuide"/>
+			<item value="Capitulo1Deitel"/>
+			<item value="CodeWars"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="JUnitGuide"/>
+			<item value="Capitulo1Deitel"/>
+			<item value="CodeWars"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 		</list>
