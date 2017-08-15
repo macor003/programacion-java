@@ -18,6 +18,7 @@ public class SumConsecutives {
 			if (i == list.size() - 1) {
 				resultado.add(i, list.get(i));
 			} else if (list.get(i) == list.get(i + 1)) {
+				
 				sum = (list.get(i) + list.get(i + 1));
 				resultado.add(i, sum);
 				list.remove(i);
