@@ -12,12 +12,44 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Tue, 15 Aug 2017 15:38:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Aug 2017 11:26:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Working with Java 9 in Eclipse</title>
+		<link>https://www.genuitec.com/working-java-9-eclipse/</link>
+		<pubDate>Thu, 24 Aug 2017 14:19:50 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Fernandes]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Planet Eclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[Java EE]]></category>
+		<category><![CDATA[webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=534701</guid>
+		<description><![CDATA[<p>The Java 9 general availability release is just under a month away, but the builds available right now are already feature complete. If you can’t wait to try some Java 9 capabilities, you can start developing with Java 9 in Eclipse, right now!Installing the Java 9 SupportYou need an Oxygen based install of Eclipse &#8211; ensure [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/working-java-9-eclipse/">Working with Java 9 in Eclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>With Genuitec, updates are free!</title>
+		<link>https://www.genuitec.com/genuitec-updates-free/</link>
+		<pubDate>Thu, 17 Aug 2017 20:22:27 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=534195</guid>
+		<description><![CDATA[<p>Did you know that you already have access to the latest Genuitec products, as a licensed user? This includes brand new releases &#8211; there&#8217;s no need to buy a new version when it is released.Perhaps you have gone all the way and purchased MyEclipse, our Java IDE that includes the best tools for dynamic frontend and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/genuitec-updates-free/">With Genuitec, updates are free!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Realtime Server Monitoring App with Angular 4 , Node.js &#038; Chart.js</title>
 		<link>https://www.genuitec.com/realtime-server-monitoring-app-angular-4-node-js-chart-js/</link>
 		<pubDate>Mon, 14 Aug 2017 20:25:55 +0000</pubDate>
@@ -25,7 +57,7 @@
 				<category><![CDATA[Genuitec]]></category>
 
 		<guid isPermaLink="false">https://www.genuitec.com/?p=533461</guid>
-		<description><![CDATA[<p>This article will show you how to build a very simple monitor that allows you to observe some OS parameters, such as free memory available. We will be using Node.js, Angular 4 and Chart.js, so ensure you have Node and Angular IDE installed. To create our development server, we will be using Vagrant, click here [&#8230;]</p>
+		<description><![CDATA[<p>This article will show you how to build a very simple monitor that allows you to observe some OS parameters, such as free memory available. We will be using Node.js, Angular 4, and Chart.js &#8211; and all you need is Angular IDE.We will be creating two applications; the first is a Node application that will [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/realtime-server-monitoring-app-angular-4-node-js-chart-js/">Realtime Server Monitoring App with Angular 4 , Node.js &amp; Chart.js</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
@@ -249,48 +281,14 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/taking-pair-programming-remote/">CodeTogether &#8211; Taking Pair Programming Remote.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>Coding DevStyle This Summer!</title>
-		<link>https://www.genuitec.com/coding-devstyle-summer/</link>
-		<pubDate>Thu, 22 Jun 2017 16:48:24 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[darkest dark; themes]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=527467</guid>
-		<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.genuitec.com/coding-devstyle-summer/">Coding DevStyle This Summer!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
-		<item>
-		<title>Create an Ecommerce Dashboard with Angular 4</title>
-		<link>https://www.genuitec.com/create-ecommerce-dashboard-angular-4/</link>
-		<pubDate>Wed, 21 Jun 2017 18:06:30 +0000</pubDate>
-		<dc:creator><![CDATA[Bob at Genuitec]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[angular 4 app]]></category>
-		<category><![CDATA[create angular app]]></category>
-		<category><![CDATA[create dashboard]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=527591</guid>
-		<description><![CDATA[<p>In this Angular 4 tutorial we are going to create a dashboard for an e-commerce store which will highlight key metrics and show top selling products. In the course of this tutorial, we will be using Angular IDE.Let’s get started by firing up our Angular IDE and create a new Angular project named StoreReporter.Next, we [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/create-ecommerce-dashboard-angular-4/">Create an Ecommerce Dashboard with Angular 4</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9284/9400 objects using disk
+Object Caching 9271/9391 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching using disk
+Database Caching 43/45 queries in 0.006 seconds using disk
 
- Served from: www.genuitec.com @ 2017-08-15 14:33:44 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-08-25 07:49:22 by W3 Total Cache -->

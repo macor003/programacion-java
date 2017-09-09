@@ -5989,3 +5989,136 @@ java.lang.NullPointerException
 	at com.genuitec.eclipse.webclipse.dashboard.editor.LicensingCompositeController.licenseChanged(LicensingCompositeController.java:256)
 	at com.genuitec.eclipse.webclipse.dashboard.editor.LicensingCompositeController$2.run(LicensingCompositeController.java:90)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2017-08-25 08:48:12.052 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_VE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/epa.com/eve0018536/workspaces/programacion-java -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.764
+!MESSAGE System property http.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.799
+!MESSAGE System property http.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.800
+!MESSAGE System property https.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.800
+!MESSAGE System property https.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.800
+!MESSAGE System property socksProxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.801
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.802
+!MESSAGE System property https.proxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.802
+!MESSAGE System property https.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.802
+!MESSAGE System property socksProxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.802
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.803
+!MESSAGE System property socksProxyHost is not set but should be 127.0.0.1.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:13.803
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.jface 2 0 2017-08-25 08:48:23.956
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-08-25 08:48:23.956
+!MESSAGE A conflict occurred for ALT+CTRL+U:
+Binding(ALT+CTRL+U,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.search.occurrences.in.file.quickMenu,Show Occurrences in File Quick Menu,
+		Shows the Occurrences in File quick menu,
+		Category(org.eclipse.search.ui.category.search,Search,Search command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6321e29b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,gtk,system)
+Binding(ALT+CTRL+U,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.UpdateCommand,Update,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12b2fcaf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-08-25 08:48:23.956
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16716cc0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1100363d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:33.633
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:33.633
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:33.663
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:33.675
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:35.782
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:48:37.839
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-25 08:49:00.290
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-25 08:49:00.290
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-25 08:51:26.790
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-08-25 08:51:26.791
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:51:28.567
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:51:28.675
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:51:28.748
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:51:28.759
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:51:28.787
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:51:28.854
+!MESSAGE System property socksProxyPort is not set but should be 1080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-08-25 08:52:19.512
+!MESSAGE System property socksProxyPort is not set but should be 1080.
