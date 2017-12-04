@@ -1,0 +1,1274 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24/04/2014, 01:31:44 PM
+    Author     : Mario
+*/
+@font-face{
+    font-family: ubuntu;
+    src:url('Ubuntu-L.ttf');
+}
+@font-face {
+    font-family: "Open Sans Light";
+    font-style: normal; 
+    font-weight: normal;
+    src: url("OpenSans-Light-webfont.woff")
+}
+@font-face {
+    font-family: "Open Sans Regular";
+    font-style: normal; 
+    font-weight: normal;
+    src: url("OpenSans-Regular-webfont.woff")
+}
+
+.claseBtn{
+    width: 175px;
+    height: 35px;
+    /*background-image: url("../sgt_imagenes/check.png");*/
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 25px 4px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left: 200px;
+    font: 14px Open Sans Regular;
+}
+.claseBtn:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+.claseBtn:active{
+    position: relative;
+    top: 1px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+.EtiquetaEnForm{
+    font: 14px Open Sans Light;
+}
+#DataTable{
+    font-family: Open Sans Regular;
+}
+#DataTable thead{
+    font-size:15px;
+}
+
+
+
+.cintillo{
+    width: 1000px;
+    height: 48px;
+    position: absolute;
+    left: 220px;
+    top: 0px;
+}
+.fondo{
+    position: relative;
+    left: 212px;
+    margin-top: -10px;
+    width: 1000px;
+    height:1200px;       
+    -webkit-box-shadow:  0px 0px 5px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow:  0px 0px 5px 2px rgba(0, 0, 0, 0.75);
+    box-shadow:  0px 0px 5px 2px rgba(0, 0, 0, 0.75);
+}
+.fondo img{
+    height: 350px;
+    margin-left: 300px;
+}
+#logo{    
+    position: absolute;
+    opacity: 0.1;    
+    width: 850px;
+    height: 600px;
+    margin-left: 280px;
+    margin-top: -1090px;
+}
+.logo{
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    left: 350px;
+    top: 40%;
+}
+#centro{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    color: black;
+    background-color:transparent;
+    top: 18%;
+    left: 250px;
+}
+#centroAprobar{
+    width: 980px;
+    height: 550px;
+    position: absolute;
+    color: black;
+    background-color:transparent;
+    top: 13%;
+    left: 230px;
+    
+}
+h1{
+    font-size: 40px;
+    position: absolute;
+    left: 50px;
+    font-family: ubuntu;
+    font-weight: 300;
+    letter-spacing: -1px;
+}
+h2{
+    font-size: 35px;
+    position: relative;
+    left: 150px;
+    font-family: Open Sans Light;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+#UsuarioSesion{
+    position: absolute;
+    color: white;
+    margin-left: 63%;
+    font-family: Open Sans Regular;
+    top: 55px;
+    font-size: 12px;
+    
+}
+#UsuarioSesion a{
+    text-decoration: none;
+    position: relative;
+    top: -3px;
+    padding: 0px;
+    color: white;
+}
+#UsuarioSesion span:hover{
+    color: lightgrey;
+    text-decoration: underline;
+}
+#UsuarioSesion img{
+    position: relative;
+    top: -2px;
+}
+
+
+
+/*---------------------ESTILO PAGINA PRINCIPAL----------------------------------*/
+#opciones{
+    position: absolute;
+    top: 10px;
+    left: -10px;
+}
+#botonC{
+    width: 300px;
+    height: 45px;
+    background-color: #8A0808;
+    position: absolute;
+    outline: 0;
+    color:white;
+    margin-top: 100px;
+    margin-left: 60px;
+    border: 0px solid black;
+    font: 14px Open Sans Regular;
+    padding: 5px;
+    top: 150px;
+    left: 800px;
+    border-radius: 3px;
+}
+#botonC:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#botonC:active{
+    top:151px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#botonO{
+    width: 300px;
+    height: 45px;
+    background-color: #8A0808;
+    position: absolute;
+    outline: 0;
+    color:white;
+    margin-top: 140px;
+    margin-left: 60px;
+    border-radius: 3px;
+    font: 14px Open Sans Regular;
+    border:0px solid black;
+    padding: 5px;
+    top: 200px;
+    left: 800px;
+}
+#botonO:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#botonO:active{
+    top:201px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#botonA{
+    width: 300px;
+    height: 45px;
+    background-color: #8A0808;
+    position: absolute;
+    outline: 0;
+    color:white;
+    margin-top: 180px;
+    margin-left: 60px;
+    border-radius: 3px;
+    font: 14px Open Sans Regular;
+    border:0px solid black;
+    padding: 5px;
+    top: 250px;
+    left: 800px;
+}
+#botonA:hover{
+   cursor: pointer;
+    background-color: #A60A0A;
+}
+#botonA:active{
+    top: 251px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+
+
+
+/* --------------------Estilos pagina de crear requerimientos-------------------*/
+
+#formulario{
+    color: white;
+    font-family: ubuntu;
+    width: 500px;
+    height: 400px;
+    background-color: transparent;
+    margin-left: 600px;
+    margin-top: -980px;
+    position: absolute;
+}
+#datosUsuario{
+    opacity: 1;
+    border-radius: 5px 0px 5px 0px;
+    border: 0px solid white;
+    width: 600px;
+    color: black;
+}
+#tituloU{
+    padding-top: 5px;
+    border-radius: 40px;
+    width: 135px;
+    height: 25px;
+    color: white;
+    background-color: #610B0B;
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.75);
+}
+#tituloR{
+    padding-top: 5px;
+    border-radius: 40px;
+    width: 192px;
+    height: 25px;
+    color: white;
+    background-color: #610B0B;
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.75);
+}
+#datosRequerimiento{
+    color: black;
+    margin-top: 10px;
+    border-radius: 5px 0px 5px 0px;
+    border: 0px solid white;
+    width: 600px;
+}
+
+
+
+/*---------------------------FORMULARIO DE REGISTRO DE REQUERIMIENTO------------*/
+input{
+    font-family: ubuntu;
+    color: black;
+}
+#selectT{    
+    font-family: ubuntu;    
+    width: 250px;
+}
+#help{
+    width: 18px;
+    height: 18px;
+    position: relative;
+    top: 2px;
+    left: -4px;
+    cursor: pointer;
+}
+#pregunta{
+    position: relative;
+    top: -3px;
+    left: -3px;
+    font: 11px Open Sans Light;
+    color: blue;
+    text-decoration: underline;
+}
+#pregunta:hover{
+    cursor:pointer;
+}
+#selectA{
+    font-family: ubuntu;    
+    width: 250px;    
+}
+#selectC{    
+    font-family: ubuntu;
+    width: 250px;
+}
+#ficha{
+    font-family: ubuntu;
+    width: 150px;
+}
+#txtTipo{
+    position: relative;    
+}
+textArea{
+    width: 380px;
+    resize: none;
+}
+#tipoR{
+    font-family: ubuntu;
+    margin-left: 35px;
+    width: 250px; 
+}
+#descrip{
+    width: 1550px;
+}
+#depto{
+    font-family: ubuntu;
+}
+#adjuntar{
+    padding-bottom: 3px;
+    cursor: default;
+    text-decoration: none;
+    border-radius: 40px;
+    width: 185px;
+    height: 35px;
+    color: white;
+    background-color: #610B0B;
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.75); 
+    margin-top: -5px;
+}
+#Agregar{
+    position: relative;
+    text-decoration: none;
+}
+#Subir{
+    position: relative;
+}
+#add{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    opacity: 1;
+}
+#add:hover{
+    cursor:pointer;
+    opacity: 1;
+}
+#delete{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;    
+    opacity: 0.5;
+}
+#delete:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+#Enviar{
+    width: 175px;
+    height: 35px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    font: 14px Open Sans Regular;
+    
+}
+#Enviar:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#Enviar:active{
+    top:1px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#Cancelar{
+    width: 175px;
+    height: 35px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    margin-left: 40px;
+    font:14px Open Sans Regular;    
+    position: relative;
+}
+#Cancelar:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#Cancelar:active{
+    top:1px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;;
+}
+
+
+/*-----------------------------ESTILO PAGINA APROBAR REQUERIMIENTO--------------*/
+
+#tablaAprobar{    
+    width: 960px;
+    text-align: center;
+    font-family: Open Sans Regular;
+    border: 0px solid;
+    border-spacing: 0; 
+    border-collapse: collapse;
+    border: 1px solid  #A60A0A;
+    margin: 50px auto;
+    background: white;
+}
+.cabeceraAprobar{
+  background: #8A0808;
+  height: 34px;  
+  font-weight: lighter;
+  text-shadow: 0 1px 0 #610B0B;
+  color: white;
+  border: 0px solid  #610B0B;
+  box-shadow: inset 0px 1px 2px #A60A0A;
+  transition: all 0.2s;
+}
+.detalleAprobar{
+    font-family: Open Sans Regular;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    transition: all 0.2s;
+}
+#tablaAprobar td{
+    border-collapse: collapse;
+    padding: 0;    
+}
+#tituloTabla{
+    background-color: #8A0808;
+    color: white;
+    font-size: 16px;
+    height: 35px;
+    font-family: ubuntu;
+}
+#tablaDescripcion{
+    font: 12px Open Sans Regular;
+}
+#tddetalle{
+    width: 30px;
+}
+#divDetalle{
+    width: 20px;
+    background-color: #BDBDBD;
+    border-color: #848484;
+    border-radius: 2px;
+    position: relative;
+    left: 5px;
+    opacity: 0.6;
+}
+#divDetalle:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+#tdNumero{
+    width: 60px;
+}
+#tdClasificacion{
+    width: 195px;
+}
+#tdFecha{
+    width: 130px;
+}
+#tdDescripcion{
+    width: 380px;
+}
+#tdDecision{
+    width: 60px;
+}
+#detalle{
+    width: 10px;
+    height: 10px;
+    
+}
+#irAprobar{    
+    background-color: #848484;
+    border:1px solid #848484;
+    border-radius: 3px;
+    color: white;
+}
+#irAprobar:hover{
+    border:1px solid #A60A0A;
+    background-color: #A60A0A;
+    cursor: pointer;
+}
+#cod_reque{
+    border: 1px white;
+    width: 75px;
+    text-align: center;
+    background-color: transparent;
+}
+
+
+/*-----------------------------ESTILO PAGINA DETALLE APROBAR REQUERIMIENTO--------------*/
+
+#detallesRequerimiento{
+    width: 960px;
+    font-family: Open Sans Regular;
+    border: 0px solid;
+    border-spacing: 0px; 
+}
+#detallesRequerimiento td{
+    border: 1px gray solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.campo{
+    font: bold 14px Open Sans Regular;
+    background-color: #F6CECE;
+    
+}
+#Campos{
+    width: 280px;
+}
+#btnAprobar{
+    width: 175px;
+    height: 35px;
+    background-image: url("../sgt_imagenes/check.png");
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 25px 4px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left: 200px;
+    font: 14px Open Sans Regular;
+    
+}
+#btnAprobar:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#btnAprobar:active{
+    position: relative;
+    top: 1px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#btnRechazar{
+    width: 175px;
+    height: 35px;
+    background-image: url("../sgt_imagenes/cancel.png");
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 25px 4px;
+    background-color: #8A0808;
+    border: 0px solid ;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left: 230px;
+    font: 14px Open Sans Regular; 
+}
+#btnRechazar:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#btnRechazar:active{
+    position: relative;
+    top: 1px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#btnRegresar{
+    width: 175px;
+    height: 35px;
+    
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 25px 4px;
+    background-color: #8A0808;
+    border: 0px solid ;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left: 270px;
+    font: 14px Open Sans Regular;
+    
+}
+#btnRegresar:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#btnRegresar:active{
+    position: relative;
+    top: 1px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+
+/*-----------------------------SESION CADUCADA----------------------------------*/
+
+#mensajeCaducada{
+    width: 500px;
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+#mensajeCaducada img{
+    width: 200px;
+    height: 200px;
+}
+#mensajeCaducada h1{
+    color: #730000;
+    position: relative;
+    left: 230px;
+    top: -190px;
+}
+#mensajeCaducada h3{
+    color: #585858;
+    position: relative;
+    top:-270px;
+    left: 230px;
+}
+#mensajeCaducada a{
+    text-decoration: none;
+}
+#IniciarNuevamente{
+    width: 250px;
+    height: 55px;
+    border: 0px solid black;
+    position: relative;
+    background-color: #8A0808;
+    left: 240px;
+    top: -200px;
+    font: 18px Open Sans Light;
+    color: white;
+    border-radius: 3px;
+}
+#IniciarNuevamente:hover{
+    cursor: pointer;
+    background-color: #A60A0A;    
+}
+#IniciarNuevamente:active{
+    top: -199px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+
+/*-----------------------------REQUERIMIENTOS PENDIENTES POR ASIGNAR----------------------------------*/
+
+#icoFlecha{
+    
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    left: .5em;
+    top: 6px;
+}
+#PendientesDesc{
+   width: 100%;
+   
+}
+#PendientesDesc td{
+    padding-top: .9em;
+}
+#asignar{
+    width: 110px;
+    height: 30px;
+    background-color: #FFD3D3;
+    border: 1px solid #8A0808;
+    color:#8A0808;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left:20%;
+    font: bold 14px Open Sans Regular;
+    font-weight: 300;    
+}
+#asignar:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+    color: white;
+}
+#asigna:focus{
+    margin-top: 1px;
+}
+#finalizarReque{
+    width: 110px;
+    height: 30px;
+    background-color: #FFD3D3;
+    border: 1px solid #8A0808;
+    color:#8A0808;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left:21%;
+    font: bold 14px Open Sans Regular;
+    font-weight: 300;    
+}
+#finalizarReque:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+    color: white;
+}
+#cancelarReque{
+    width: 110px;
+    height: 30px;
+    background-color: #FFD3D3;
+    border: 1px solid #8A0808;
+    color:#8A0808;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left:22%;
+    font: bold 14px Open Sans Regular;
+    font-weight: 300; 
+}
+#cancelarReque:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+    color: white;
+}
+#cancelarReque:focus{
+    
+}
+#detalleCabecera table{
+    cursor: pointer;
+    margin-top: -3px;    
+}
+#tituloPendiente{
+   position: absolute;
+   top: 17%;
+   left: 30%;
+   font: 40px Open Sans light;
+   font-weight: 300;
+   letter-spacing: 1px;
+}
+#DatosAsignar{
+    border: 1px solid #eeeeee;
+    border-radius: 3px;
+    width: 700px;
+    margin-left: 100px;
+}
+#DatosAsignar legend{
+    background-color: #8A0808;
+    padding: 3px;
+    color: white;
+    font: bold 13px Open Sans Regular;
+    font-weight: 200;
+    border-radius: 3px;
+}
+.tituloDesc{
+    font-family: Open Sans Regular;    
+    font-size: 13px;
+    color: #8A0808;
+}
+.detalleDesc{
+    font: bold 13px Open Sans Regular;
+    font-weight: 200;
+}
+.pagination{
+    position: relative; 
+    top: -47em;
+    left: 33em;
+}
+#tablaPendiente{
+    position: absolute;
+    top: 300px;
+    left: 14em;
+    width: 970px;
+    border-collapse: collapse;
+    border: 1px solid  #A60A0A;
+    background: white;
+}
+#cod{
+   width: 30px;   
+}
+#nom{
+    width: 160px;
+}
+#tipo{
+    width: 80px;
+}
+#fecha{
+    width: 70px;
+}
+#clasi{
+   width: 120px;
+}
+#edit{
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+}
+.btnPaginacion{
+    width: 155px;
+    height: 35px;    
+    background-repeat: no-repeat;
+    background-size: 25px;    
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 50px;
+    outline:0;
+    position: relative;
+    top: -280px;
+    
+    font: 14px Open Sans Regular;
+    
+}
+.btnPaginacion:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+.btnPaginacion:active{
+    position: relative;
+    top: -279px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#btnPrevio{
+    background-image: url("../sgt_imagenes/back.png");
+    background-position: 20px 5px;
+    left:510px;
+}
+#btnSiguiente{
+    background-image: url("../sgt_imagenes/next1.png");
+    background-position: 115px 5px;
+    left: 555px;
+     
+}
+#leyenda{
+    font: 14px Open Sans Light;
+    position: absolute;
+    left: 320px;
+    top: 210px;
+}
+#boxBusqueda{
+    position: absolute;
+    top: 200px;
+    left:240px;
+    font: 14px Open Sens Light;
+}
+#selectTipoBusqueda{
+    height: 22px;
+}
+#busqueda{
+    position: absolute;
+    top: 0px;
+    left: 300px;
+}
+#btnCancelarBusqueda{
+    position:absolute;
+    margin-left: 5px;
+    top: -1px;
+}
+
+/*------------------------------ACTUALIZAR TABLA DE AREAS-----------------------*/
+
+#centroArea{
+    position: relative;
+    top: -68em;
+    left: 25em;
+    width: 650px;
+    height: 600px;
+    border: 0px solid black;
+}
+#AddArea{
+    width: 180px;
+    height: 44px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: absolute;
+    margin-left:33%;
+    margin-top:-5%;
+    font: bold 14px Open Sans Regular;
+    font-weight: 300; 
+    
+    text-align: center;
+}
+#AddArea:hover{
+    cursor: pointer;
+    background-color: #A60A0A; 
+}
+#AddArea:active{
+    margin-top:-4.9%;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#tituloArea{
+    position: relative;
+    left: 14em;
+    top: -31em;
+    width: 15em;
+    
+}
+#tablaArea{
+    position: absolute;
+    top: -15px;
+    left: 1em;
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    border: 1px solid  #A60A0A;
+    margin: 50px auto;
+    background: white;
+}
+.cabeceraArea{
+  font-family: Open Sans Regular;
+  background: #8A0808;
+  height: 34px;
+  width: 25%;
+  font-weight: lighter;
+  text-shadow: 0 1px 0 #610B0B;
+  text-align: left;
+  color: white;
+  border: 0px solid  #610B0B;
+  box-shadow: inset 0px 1px 2px #A60A0A;
+  transition: all 0.2s;
+}
+.cabeceraAreaEdit{
+  font-family: Open Sans Regular;
+  background: #8A0808;
+  height: 34px;
+  width: 5%;
+  font-weight: lighter;
+  text-shadow: 0 1px 0 #610B0B;
+  text-align: left;
+  color: white;
+  border: 0px solid  #610B0B;
+  box-shadow: inset 0px 1px 2px #A60A0A;
+  transition: all 0.2s;
+}
+.detalleArea{
+    font-family: Open Sans Regular;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    transition: all 0.2s;
+}
+.registro{
+    font-size: 13px;
+}
+.registro:hover{
+    background-color: #FFD3D3;
+}
+.registro:nth-child(odd){
+    background-color: #f3f3f3;
+}
+.registro:nth-child(odd):hover{
+    background-color: #FFD3D3;
+}
+.detalleAreaEdit{  
+  border: 1px solid #cccccc;
+  padding: 5px;
+  transition: all 0.2s;
+  width: 5px;
+}
+/*#editarArea{
+    position: relative;
+    left: 10px;
+    width: 16px;
+    height: 16px;
+    opacity: 0.4;
+}
+#editarArea:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}*/
+.editarArea{
+    position: relative;
+    left: 10px;
+    width: 16px;
+    height: 16px;
+    opacity: 0.4;
+}
+.editarArea:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#eliminarArea{
+    position: relative;
+    left: 10px;
+    width: 16px;
+    height: 16px;
+    opacity: 0.4;
+}
+#eliminarArea:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+/*------------------------------PAGINA AGREGAR AREA NUEVA-----------------------*/
+#sectionAgregarArea{
+    width: 500px;
+    height: 250px;;
+    position: relative;
+    margin: 0 auto;
+    margin-top: -72%;
+    background-color:white;
+    border: 1px solid #A60A0A;
+    border-radius: 3px;
+}
+
+/*------------------------------ACTUALIZAR TABLA DE AREAS ANALISTAS-----------------------*/
+
+#centroAreaAnalista{
+    position: relative;
+    top: -69em;
+    left: 25em;
+    width: 850px;
+    height: 600px;
+    border: 0px solid black;
+}
+#tablaAreaAnalista{
+    position: absolute;
+    top: -15px;
+    left: -8em;
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+    border: 1px solid  #A60A0A;
+    margin: 50px auto;
+    background: white;
+}
+#AddAnalistaArea{
+    
+    width: 230px;
+    height: 45px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: absolute;
+    margin-left:50.5%;
+    top: 30%;
+    font: bold 14px Open Sans Regular;
+    font-weight: 300; 
+    transition: all 0.1s;
+    text-align: center;
+}
+#AddAnalistaArea:hover{
+    cursor: pointer;
+    background-color: #A60A0A;   
+}
+#AddAnalistaArea:active{
+    position: absolute;
+    top: 30.3%;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#tituloAreaAnalista{
+    position: relative;
+    left: 13em;
+    top: -31em;
+    width: 25em;
+    
+}
+#numeroAreaAnalista{
+    text-align: center;
+    width: 50px;
+}
+#tFichaAreaAnalista{
+    width: 70px;
+}
+#tNombreAreaAnalista{
+    width: 300px;
+}
+#tAreaAnalista{
+    width: 80px;
+}
+#tTipoAnalista{
+    width: 250px;
+}
+
+
+/*------------------------------DETALLES REQUERIMIENTOS PENDIENTES-----------------------*/
+#tituloAsignar{
+    background-color: #cccccc;
+    color:black;
+    font: 15px Open Sans Light;
+    padding: 2px 10px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    position: relative;
+    left: 55px;
+}
+#rAprobado{
+    background-color: green;
+    color: white;
+    font-size: 10px;
+    padding: 2px 10px;
+    border: 1px solid green;
+    border-radius: 3px;
+    position: relative;
+    left: 15px;
+}
+#rPendiente{
+    background-color: #eea236;
+    color: black;
+    font-size: 10px;
+    padding: 2px 10px;
+    border: 1px solid #eea236;
+    border-radius: 3px;
+    position: relative;
+    left: 15px;
+}
+#rRechazado{
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    padding: 2px 10px;
+    border: 1px solid red;
+    border-radius: 3px;
+    position: relative;
+    left: 15px;
+}
+#tablaPendienteDetalle{
+    width: 900px;
+    text-align: center;
+    font-family: Open Sans Regular;
+    border: 0px solid;
+    border-spacing: 0; 
+    border-collapse: collapse;
+    border: 1px solid  #A60A0A;
+    margin: 10px auto;
+    background: white;
+}
+#editarRequerimientoPendiente{
+    background-image: url("../sgt_imagenes/edit.png");
+    background-repeat: no-repeat;
+    background-position: 2px 2px;
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+    border: none;
+}
+#cancelarTicket{
+    position:absolute;
+    margin-top: -50px;
+    margin-left: 350px;
+    width: 175px;
+    height: 35px;
+    /*background-image: url("../sgt_imagenes/check.png");*/
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 25px 4px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    font: 14px Open Sans Regular;
+}
+#cancelarTicket:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#cancelarTicket:active{
+    position: absolute;
+    margin-top: -49px;
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+#textSolucion{
+    position: absolute;
+    width: 270px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#tablaHistorial{
+    font-family: ubuntu;    
+}
+#btnProcesar{
+    width: 175px;
+    height: 35px;
+    /*background-image: url("../sgt_imagenes/check.png");*/
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 25px 4px;
+    background-color: #8A0808;
+    border: 0px solid #3079ed;
+    color:white;
+    border-radius: 3px;
+    outline:0;
+    position: relative;
+    left: 200px;
+    font: 14px Open Sans Regular;
+}
+#btnProcesar:hover{
+    cursor: pointer;
+    background-color: #A60A0A;
+}
+#btnProcesar:active{
+       
+    box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -moz-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+    -webkit-box-shadow: 0px 1px 7px 2px rgba(50, 50, 50, 0.75) inset;
+}
+
+
+/*---------------------------FORMULARIO EDITAR REGISTRO DE REQUERIMIENTO------------*/
+
+#formularioEditar{
+    color: white;
+    font-family: ubuntu;
+    width: 800px;
+    height: 400px;
+    background-color: transparent;
+    margin-left: 350px;
+    margin-top: -980px;
+    position: absolute;
+}
+#tituloEditarReque{
+    position: relative;
+    left: 7em;
+    top: -1em;
+    width: 15em;
+    
+}

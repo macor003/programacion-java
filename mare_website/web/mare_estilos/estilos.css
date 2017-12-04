@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/11/2014, 12:35:06 PM
+    Author     : Mario
+*/
+.navbar{
+    border-radius: 0px;    
+}
+.boxbienvenida{
+    background-image: url('../mare_imagenes/fondo4.jpg');
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+#novedades{
+    background: transparent;
+    border: 1px solid white;
+}
+#novedades:hover{
+    background: #9954bb;
+    border: 1px solid #9954bb;
+}
+
+/*-------------------Inicio de Sesion--------------------*/
+.boxlogin{
+    margin: 0 auto;
+    width: 450px;
+    height: 470px;
+}
+.pass{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+/*-------------------Registro de Usuarios--------------------*/
+.boxregistro{
+    width: 420px;
+    height: 490px;
+    border: 1px solid #c0c0c0;
+    margin-top: 20px;
+}
+.nombre_usu{
+    margin-bottom: 5px;
+}
+.apellido_usu{
+    margin-bottom: 5px;
+}
+.correo_usu_new{
+    margin-bottom: 5px;
+}
+.pass_usu_new{
+    margin-bottom: 5px;
+}
+.fec_nac_usu{
+    margin-bottom: 15px;
+}
+#logoRegistro{
+    width: 230px; 
+    height: 150px;
+    margin-left: 150px;
+    margin-top: 45px;
+    margin-bottom: 0px;
+}

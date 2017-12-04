@@ -1,0 +1,183 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Nuevo Requerimiento</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<style>
+body{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+#encabezado{
+  width:460px;
+  height: 45px;
+  text-align:center;
+  font-weight: 300;
+  border: 1px solid #8A0808;
+  color: white;
+  background-color: #8A0808;
+}
+h2{
+  margin-top:10px;
+  font: bold 20px sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+#correo{
+  position: relative;
+  top: -50px;
+  left: 40%;
+  width: 12%;
+  height: 120%;
+}
+#detalles{
+  width: 462px;
+  height: 100px;
+  border: 1px solid #8A0808;
+  padding-bottom: 20px; 
+  background: transparent;
+}
+#fondo{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin-left: -200px;
+    margin-top: 35px;
+    opacity: 0.3;
+}
+#detalles td{
+  padding-top: 20px;
+  
+}
+.titulo{
+  text-align: left;  
+  font: bold 13px sans-serif;
+  width: 100px;
+  padding-left: 10px;
+
+}
+.detalleReque{
+  font-size: 14px;
+  text-align:left;
+  font-family: sans-serif;
+  
+}
+#nombre{
+  font-size: 13px;
+  text-align:left;
+  font-family: sans-serif;
+}
+#aprobar{
+  width: 229px;
+  height: 30px;
+  background-color: #8A0808;
+  border: 1px solid #8A0808;  
+}
+#aprobar:hover{
+  cursor: pointer;
+  background-color: #B90000;
+  border: 1px solid #B90000;
+}
+#aprobar label{  
+  position: relative;
+  top: 5px;
+  left: 85px;
+  color: white;  
+  font: 16px sans-serif;
+  font-weight: 200;
+  cursor: pointer;
+}
+#aprobar a{
+  text-decoration: none;
+}
+#aprobar a:hover{
+  cursor: pointer;
+}
+#rechazar{
+  width: 229px;
+  height: 30px;
+  background-color: #8A0808;
+  border: 1px solid #8A0808;  
+  margin-top: -32px;
+  margin-left: 231px;
+}
+#rechazar:hover{
+  cursor: pointer;
+  background-color: #B90000;
+  border: 1px solid #B90000;
+}
+#rechazar label{  
+  position: relative;
+  top: 5px;
+  left: 85px;
+  color: white;  
+  font: 16px sans-serif;
+  font-weight: 200;
+  cursor: pointer;
+}
+#rechazar a{
+  text-decoration: none;
+}
+.triangulo_top_left {
+    width: 0;
+    height: 0;
+    border-top: 30px solid #fff; 
+    border-right: 38px solid transparent;
+    position: absolute;           
+}
+.triangulo_bottom_right {
+    width: 0;
+    height: 0;
+    border-bottom: 30px solid #000; 
+    border-left: 38px solid transparent;  
+    position: absolute;  
+    opacity: 0.5;           
+}
+#barra{
+  width: 460px;
+  height: 45px;
+  background-color: #8A0808;
+  border: 1px solid #8A0808;
+  color: white;
+  text-align: center;
+}
+#centrado{
+    margin: 0 auto;
+}
+</style>
+</head>
+<body>
+    <section id="centrado">
+      <div class="triangulo_top_left"></div>
+      <div class="triangulo_bottom_right"></div>
+      <div id="encabezado"><h2>Datos del usuario<img id="fondo" src="http://10.183.12.158:8080/sgt_website/sgt_imagenes/help_desk_logo.png"></h2></div>
+      <table id="detalles">
+        <tr>
+          <td class="titulo">Planta:</td>
+          <td class="detalleReque">Los guayos</td>
+        </tr>
+        <tr>
+          <td class="titulo">Nombre:</td>
+          <td class="detalleReque">ORTEGA RODRIGUEZ MARIO CESAR</td>
+        </tr>
+        <tr>
+          <td class="titulo">Ficha:</td>
+          <td class="detalleReque">96762</td>
+        </tr>
+        <tr>
+          <td class="titulo">Departamento:</td>
+          <td class="detalleReque">GRUPO VV SISTEMAS</td>
+        </tr>
+        <tr>
+          <td class="titulo">Usuario:</td>
+          <td class="detalleReque">VGSIT01</td>
+        </tr>
+        <tr>
+          <td class="titulo">Contraseña:</td>
+          <td class="detalleReque">PRUEBAS23424</td>
+        </tr>
+      </table>
+      <div id="barra">Con estos datos podras ingresar al Sistema de Gestión de Tecnología (Centro de Atención al Usuario)</div>
+    </section>
+</body>
+</html>
