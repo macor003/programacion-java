@@ -1,0 +1,1616 @@
+
+Osquid:S1643õ"Use a StringBuilder instead.(ºšÔ¯şÿÿÿÿHÅRMINORZ
+CODE_SMELL
+Osquid:S1643Ù	"Use a StringBuilder instead.(äÂçèúÿÿÿÿHÆRMINORZ
+CODE_SMELL
+Jsquid:S1643Á"Use a StringBuilder instead.(¾Èé½HÇRMINORZ
+CODE_SMELL
+€squid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«ÓşHÈRMINORZ
+CODE_SMELL
+‚squid:S1192_"RDefine a constant instead of duplicating this literal "  per_nombre, \n" 12 times.(±ÇøHÉRCRITICALZ
+CODE_SMELL
+…squid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿Ÿ‚ùÿÿÿÿHÊRMINORZ
+CODE_SMELL
+f
+squid:S106±"9Replace this use of System.out or System.err by a logger.(‘ûóÁHËRMAJORZ
+CODE_SMELL
+Ÿsquid:S1192Ï"nDefine a constant instead of duplicating this literal "<option value='su'>Seleccione Uno(a)</option>" 3 times.(‹ŒÁ–HÌRCRITICALZ
+CODE_SMELL
+Jsquid:S1643ƒ"Use a StringBuilder instead.(£ßÂ‰HÍRMINORZ
+CODE_SMELL
+…squid:S00117ù
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ”ŸüÿÿÿÿHÎRMINORZ
+CODE_SMELL
+Osquid:S1643Ê"Use a StringBuilder instead.(Éä¥æşÿÿÿÿHÏRMINORZ
+CODE_SMELL
+…squid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿Ÿ‚ùÿÿÿÿHĞRMINORZ
+CODE_SMELL
+Jsquid:S1643¯"Use a StringBuilder instead.(ÎÆÚ­HÑRMINORZ
+CODE_SMELL
+İsquid:S1192m"¬Define a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_cod_tipo_requerimieto = t_sgt_tipo_requerimiento.sgt_cod_tipo_requerimiento AND\n" 9 times.(Ù€«ºHÒRCRITICALZ
+CODE_SMELL
+Osquid:S1643˜"Use a StringBuilder instead.(äÂçèúÿÿÿÿHÓRMINORZ
+CODE_SMELL
+€squid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHÔRMINORZ
+CODE_SMELL
+Osquid:S1643ì"Use a StringBuilder instead.(­–“ÁúÿÿÿÿHÕRMINORZ
+CODE_SMELL
+…squid:S2077±	"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHÖRBLOCKERZVULNERABILITY
+xsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ûÙ´9H×RMAJORZ
+CODE_SMELL
+Jsquid:S1643ç"Use a StringBuilder instead.(ÎÆÚ­HØRMINORZ
+CODE_SMELL
+“squid:S1192‹"]Define a constant instead of duplicating this literal "UPDATE t_sgt_requerimiento\n" 3 times.(üŠÿÿÿÿÿÿHÙRCRITICALZ
+CODE_SMELL
+Ysquid:S1148ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÚRMINORZVULNERABILITY
+Osquid:S1643ë"Use a StringBuilder instead.( Ÿ©ÕøÿÿÿÿHÛRMINORZ
+CODE_SMELL
+csquid:S2095ı"5Close this "PreparedStatement" in a "finally" clause.(¹Á”ÀÿÿÿÿÿHÜRBLOCKERZBUG
+€squid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«ÓşHİRMINORZ
+CODE_SMELL
+Jsquid:S1643•"Use a StringBuilder instead.(ğôÑHŞRMINORZ
+CODE_SMELL
+Jsquid:S1643ˆ"Use a StringBuilder instead.(¶º¶HßRMINORZ
+CODE_SMELL
+squid:S1192}"[Define a constant instead of duplicating this literal "sgt_cod_tipo_requerimieto" 13 times.(öÛå×øÿÿÿÿHàRCRITICALZ
+CODE_SMELL
+€squid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­HáRMINORZ
+CODE_SMELL
+k
+squid:S106²	"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿHâRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿHãRMAJORZ
+CODE_SMELL
+Jsquid:S1643¨"Use a StringBuilder instead.(¾öÉ¢HäRMINORZ
+CODE_SMELL
+Jsquid:S1643©"Use a StringBuilder instead.(¶º¶HåRMINORZ
+CODE_SMELL
+k
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿHæRMAJORZ
+CODE_SMELL
+squid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHçRMINORZ
+CODE_SMELL
+…squid:S00117¸	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ”ŸüÿÿÿÿHèRMINORZ
+CODE_SMELL
+Osquid:S1643Ò"Use a StringBuilder instead.(æµÅèÿÿÿÿÿHéRMINORZ
+CODE_SMELL
+Jsquid:S1643Ğ	"Use a StringBuilder instead.(›Ã¹ÆHêRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(¶º¶HëRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(“åŸ„HìRMINORZ
+CODE_SMELL
+Jsquid:S1643»"Use a StringBuilder instead.(ìù³ìHíRMINORZ
+CODE_SMELL
+squid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­HîRMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(æµÅèÿÿÿÿÿHïRMINORZ
+CODE_SMELL
+Osquid:S1643¹"Use a StringBuilder instead.(òùéÍûÿÿÿÿHğRMINORZ
+CODE_SMELL
+f
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(ãñŠHñRMAJORZ
+CODE_SMELL
+Vsquid:S2095†"-Close this "Statement" in a "finally" clause.(ÀŠõÌHòRBLOCKERZBUG
+Osquid:S1643Ù"Use a StringBuilder instead.(ºšÔ¯şÿÿÿÿHóRMINORZ
+CODE_SMELL
+Jsquid:S1643ƒ"Use a StringBuilder instead.(¶º¶HôRMINORZ
+CODE_SMELL
+{squid:S1192p"KDefine a constant instead of duplicating this literal "ORDER BY\n" 5 times.(Ü°©HõRCRITICALZ
+CODE_SMELL
+Jsquid:S1643‹"Use a StringBuilder instead.(†æµ²HöRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(“ÂîòüÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(™ÏõÛHøRMAJORZ
+CODE_SMELL
+Jsquid:S1643Œ"Use a StringBuilder instead.(¾Èé½HùRMINORZ
+CODE_SMELL
+Osquid:S1643’"Use a StringBuilder instead.(äóıøÿÿÿÿHúRMINORZ
+CODE_SMELL
+Osquid:S1643“"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHûRMINORZ
+CODE_SMELL
+Jsquid:S1643­"Use a StringBuilder instead.(¶º¶HüRMINORZ
+CODE_SMELL
+Vsquid:S2095ª"-Close this "Statement" in a "finally" clause.(ÀŠõÌHıRBLOCKERZBUG
+Jsquid:S1643İ"Use a StringBuilder instead.(¾Èé½HşRMINORZ
+CODE_SMELL
+Jsquid:S1643«"Use a StringBuilder instead.(æÃúÏHÿRMINORZ
+CODE_SMELL
+…squid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éš’ŸşÿÿÿÿH€RMINORZ
+CODE_SMELL
+Osquid:S1643Š"Use a StringBuilder instead.(ºÙ±üÿÿÿÿHRMINORZ
+CODE_SMELL
+Osquid:S1643†"Use a StringBuilder instead.(·êùüÿÿÿÿH‚RMINORZ
+CODE_SMELL
+Osquid:S1643²"Use a StringBuilder instead.(Œ‘¾ŞÿÿÿÿÿHƒRMINORZ
+CODE_SMELL
+Vsquid:S2095«"-Close this "ResultSet" in a "finally" clause.(Û§ôªH„RBLOCKERZBUG
+ƒsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ğ€ÎH…RCRITICALZ
+CODE_SMELL
+€squid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÎöH†RMINORZ
+CODE_SMELL
+Ysquid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH‡RMINORZVULNERABILITY
+Ysquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHˆRMINORZVULNERABILITY
+squid:S1192š"YDefine a constant instead of duplicating this literal "  public.vv_personal, \n" 6 times.(©íƒêûÿÿÿÿH‰RCRITICALZ
+CODE_SMELL
+€squid:S1192]"KDefine a constant instead of duplicating this literal "SELECT \n" 25 times.(˜Ï¶şÿÿÿÿHŠRCRITICALZ
+CODE_SMELL
+|squid:S00100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ê‰EH‹RMINORZ
+CODE_SMELL
+€squid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­HŒRMINORZ
+CODE_SMELL
+…squid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHRMINORZ
+CODE_SMELL
+Ysquid:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHRMINORZVULNERABILITY
+€squid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«HRMINORZ
+CODE_SMELL
+Osquid:S1643Í	"Use a StringBuilder instead.(Ÿ‰ÇãşÿÿÿÿHRMINORZ
+CODE_SMELL
+…squid:S00117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¢”ÅşÿÿÿÿH‘RMINORZ
+CODE_SMELL
+Ysquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH’RMINORZVULNERABILITY
+Jsquid:S1643¬"Use a StringBuilder instead.(ÆÆƒ¸H“RMINORZ
+CODE_SMELL
+Jsquid:S1643ù"Use a StringBuilder instead.(Æ¥şæH”RMINORZ
+CODE_SMELL
+Jsquid:S1643ß"Use a StringBuilder instead.(ÎÅ‚âH•RMINORZ
+CODE_SMELL
+€squid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«H–RMINORZ
+CODE_SMELL
+squid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nH—RMINORZ
+CODE_SMELL
+Jsquid:S1643Ö	"Use a StringBuilder instead.(¶º¶H˜RMINORZ
+CODE_SMELL
+…squid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿Ÿ‚ùÿÿÿÿH™RMINORZ
+CODE_SMELL
+ösquid:S1192Õ	"ÄDefine a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'><textarea rows='8' cols='250'name='lm_descripcion' readonly style='width:700px;'>" 3 times.(÷ğÕ”HšRCRITICALZ
+CODE_SMELL
+…squid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ”ŸüÿÿÿÿH›RMINORZ
+CODE_SMELL
+Osquid:S1643î"Use a StringBuilder instead.(Ÿ‰ÇãşÿÿÿÿHœRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™™à>HRMAJORZ
+CODE_SMELL
+€squid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«HRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(“ÂîòüÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+Osquid:S1643â"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH RMINORZ
+CODE_SMELL
+’squid:S1192g"bDefine a constant instead of duplicating this literal "  public.t_sgt_requerimiento, \n" 17 times.(›ÇæH¡RCRITICALZ
+CODE_SMELL
+Isquid:S1643ù"Use a StringBuilder instead.(ç¡³_H¢RMINORZ
+CODE_SMELL
+squid:S1192y"]Define a constant instead of duplicating this literal "sgt_desc_tipo_requerimiento" 14 times.(Ü±«H£RCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLineã	"<This block of commented-out lines of code should be removed.(×œéƒùÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+Osquid:S1643Ê"Use a StringBuilder instead.(®ù©‰şÿÿÿÿH¥RMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(÷ÖÒÉH¦RMAJORZ
+CODE_SMELL
+‘squid:S1192ì"[Define a constant instead of duplicating this literal "                    <tr>\n" 4 times.(‡ô€…øÿÿÿÿH§RCRITICALZ
+CODE_SMELL
+Jsquid:S1643á"Use a StringBuilder instead.(§Œ­èH¨RMINORZ
+CODE_SMELL
+Usquid:S2095t"-Close this "Statement" in a "finally" clause.(ÀŠõÌH©RBLOCKERZBUG
+…squid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑññøÿÿÿÿHªRMINORZ
+CODE_SMELL
+€squid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«H«RMINORZ
+CODE_SMELL
+Ysquid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¬RMINORZVULNERABILITY
+Jsquid:S1643Û	"Use a StringBuilder instead.(†Ò…H­RMINORZ
+CODE_SMELL
+€squid:S1192{"PDefine a constant instead of duplicating this literal "sgt_cod_status" 13 times.(ğ³˜­H®RCRITICALZ
+CODE_SMELL
+Vsquid:S2095ô"-Close this "Statement" in a "finally" clause.(ÀŠõÌH¯RBLOCKERZBUG
+squid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nH°RMINORZ
+CODE_SMELL
+squid:S1192f"YDefine a constant instead of duplicating this literal "  public.t_sgt_status,\n" 4 times.(îğ¨ÔùÿÿÿÿH±RCRITICALZ
+CODE_SMELL
+€squid:S00117³	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ò®®H²RMINORZ
+CODE_SMELL
+“squid:S1192õ"]Define a constant instead of duplicating this literal "  sgt_desc_clasificacion, \n" 4 times.(¯ôûÿÿÿÿH³RCRITICALZ
+CODE_SMELL
+€squid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH´RMINORZ
+CODE_SMELL
+Osquid:S1643Ñ	"Use a StringBuilder instead.(¹ºñâûÿÿÿÿHµRMINORZ
+CODE_SMELL
+€squid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÉ³‘H¶RMINORZ
+CODE_SMELL
+Xsquid:S1148C"#Use a logger to log this exception.(¸Õª¿şÿÿÿÿH·RMINORZVULNERABILITY
+e
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ğÉá¬H¸RMAJORZ
+CODE_SMELL
+Osquid:S1643Ş"Use a StringBuilder instead.(Ë•ÜùÿÿÿÿH¹RMINORZ
+CODE_SMELL
+€squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆHºRMINORZ
+CODE_SMELL
+„squid:S1192¼	"NDefine a constant instead of duplicating this literal "dep_desc_dpto" 3 times.(¬ƒ²œúÿÿÿÿH»RCRITICALZ
+CODE_SMELL
+Ysquid:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¼RMINORZVULNERABILITY
+€squid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛH½RMINORZ
+CODE_SMELL
+€squid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH¾RMINORZ
+CODE_SMELL
+[squid:S1481®"(Remove this unused "stm" local variable.(¹ööõûÿÿÿÿH¿RMINORZ
+CODE_SMELL
+…squid:S2077¨"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHÀRBLOCKERZVULNERABILITY
+…squid:S2077ü"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHÁRBLOCKERZVULNERABILITY
+‚squid:S1192›	"QDefine a constant instead of duplicating this literal "  dep_desc_dpto " 3 times.(©»±şHÂRCRITICALZ
+CODE_SMELL
+Jsquid:S1643ó"Use a StringBuilder instead.(ÚÒ´œHÃRMINORZ
+CODE_SMELL
+Jsquid:S1643Š"Use a StringBuilder instead.(•îŞÆHÄRMINORZ
+CODE_SMELL
+•squid:S1192"_Define a constant instead of duplicating this literal " WHERE sgt_cod_requerimiento='" 3 times.(¨ØšûüÿÿÿÿHÅRCRITICALZ
+CODE_SMELL
+squid:S1192j"JDefine a constant instead of duplicating this literal "WHERE \n" 19 times.(ÛŸ—üøÿÿÿÿHÆRCRITICALZ
+CODE_SMELL
+Osquid:S1643ğ"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÇRMINORZ
+CODE_SMELL
+€squid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆHÈRMINORZ
+CODE_SMELL
+Œsquid:S1192˜	"VDefine a constant instead of duplicating this literal "  sgt_desc_urgencia, " 4 times.(Şè’ÚÿÿÿÿÿHÉRCRITICALZ
+CODE_SMELL
+squid:S1192»	"WDefine a constant instead of duplicating this literal "sgt_desc_requerimiento" 6 times.(…¿Ÿ‚ùÿÿÿÿHÊRCRITICALZ
+CODE_SMELL
+°squid:S1192À	"Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>Codigo:</td>" 4 times.(§Œ­èHËRCRITICALZ
+CODE_SMELL
+Jsquid:S1643¥"Use a StringBuilder instead.(×€¨‰HÌRMINORZ
+CODE_SMELL
+˜squid:S1192š"gDefine a constant instead of duplicating this literal "                            ORDER BY\n" 3 times.(Ü°©HÍRCRITICALZ
+CODE_SMELL
+Àsquid:S1192«	"‰Define a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_cod_status = t_sgt_status.sgt_cod_status AND\n" 4 times.(ıÖÑÖüÿÿÿÿHÎRCRITICALZ
+CODE_SMELL
+Jsquid:S1643ı"Use a StringBuilder instead.(¶º¶HÏRMINORZ
+CODE_SMELL
+‚squid:S1192Õ	"QDefine a constant instead of duplicating this literal "</textarea></td>" 3 times.(÷ğÕ”HĞRCRITICALZ
+CODE_SMELL
+Osquid:S1643à"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÑRMINORZ
+CODE_SMELL
+[squid:S1481ä".Remove this unused "cod_reque" local variable.(ÇØ«nHÒRMINORZ
+CODE_SMELL
+Isquid:S2178è"Correct this "&" to "&&".(œÕÓHÓRBLOCKERZ
+CODE_SMELL
+~squid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+äsquid:S1192•"²Define a constant instead of duplicating this literal "<img src='sgt_imagenes/asignado.png' alt='' title=\"Requerimiento asignado\" style=' width: 20px; height: 20px;'>" 4 times.(ğôÑHÕRCRITICALZ
+CODE_SMELL
+~squid:S1192"HDefine a constant instead of duplicating this literal "</td>\n" 9 times.(¶®ñˆÿÿÿÿÿHÖRCRITICALZ
+CODE_SMELL
+€squid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸŞáH×RMINORZ
+CODE_SMELL
+Isquid:S2178ù	"Correct this "&" to "&&".(œÕÓHØRBLOCKERZ
+CODE_SMELL
+…squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä ÅŞüÿÿÿÿHÙRMINORZ
+CODE_SMELL
+Ásquid:S1192©	"Define a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_cod_urgencia = t_sgt_urgencia.sgt_cod_urgencia AND\n" 4 times.(»İäHÚRCRITICALZ
+CODE_SMELL
+¯squid:S1192Ğ	"~Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>Fecha:</td>" 4 times.(›Ã¹ÆHÛRCRITICALZ
+CODE_SMELL
+€squid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«HÜRMINORZ
+CODE_SMELL
+Ysquid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHİRMINORZVULNERABILITY
+Osquid:S1643Å	"Use a StringBuilder instead.(½ê³ÖøÿÿÿÿHŞRMINORZ
+CODE_SMELL
+…squid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(Ô¤²ŞHßRBLOCKERZVULNERABILITY
+Jsquid:S1643–"Use a StringBuilder instead.(£ßÂ‰HàRMINORZ
+CODE_SMELL
+Osquid:S1643„"Use a StringBuilder instead.(Ò¿ŞßúÿÿÿÿHáRMINORZ
+CODE_SMELL
+Jsquid:S1643İ	"Use a StringBuilder instead.(±²Á–HâRMINORZ
+CODE_SMELL
+Jsquid:S1643ñ"Use a StringBuilder instead.(›Ã¹ÆHãRMINORZ
+CODE_SMELL
+Xsquid:S00108Œ")Either remove or fill this block of code.(É®£HäRMAJORZ
+CODE_SMELL
+Osquid:S1643Œ"Use a StringBuilder instead.(ÌŠÿÑùÿÿÿÿHåRMINORZ
+CODE_SMELL
+Ysquid:S1148ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHæRMINORZVULNERABILITY
+Jsquid:S1643·"Use a StringBuilder instead.(¡é²HçRMINORZ
+CODE_SMELL
+Osquid:S1643ä"Use a StringBuilder instead.(©©»üÿÿÿÿHèRMINORZ
+CODE_SMELL
+Jsquid:S1643î	"Use a StringBuilder instead.(¶º¶HéRMINORZ
+CODE_SMELL
+Jsquid:S1643«"Use a StringBuilder instead.(±á òHêRMINORZ
+CODE_SMELL
+Osquid:S1643ò"Use a StringBuilder instead.(¯® ˆùÿÿÿÿHëRMINORZ
+CODE_SMELL
+ªsquid:S1192Á	"tDefine a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>" 31 times.(ÚÒ‹ùÿÿÿÿHìRCRITICALZ
+CODE_SMELL
+“squid:S1192ğ"áDefine a constant instead of duplicating this literal "<img src='sgt_imagenes/inbox.png' alt='' title=\"Requerimiento pendiente por asignar\" style=' position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(×€¨‰HíRCRITICALZ
+CODE_SMELL
+”squid:S1192c"_Define a constant instead of duplicating this literal "  sgt_cod_tipo_requerimieto,\n" 4 times.(ÄòÀ…ÿÿÿÿÿHîRCRITICALZ
+CODE_SMELL
+ôsquid:S1192‡"ÂDefine a constant instead of duplicating this literal "<img src='sgt_imagenes/clock2.png' alt='' title=\"Solicitud de Cambio Pendiente por Aprobar\" style='width: 20px; height: 20px;'>" 4 times.(˜”›ËHïRCRITICALZ
+CODE_SMELL
+Osquid:S1643Ÿ"Use a StringBuilder instead.(ç»¹ÃúÿÿÿÿHğRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine÷	"<This block of commented-out lines of code should be removed.(ğ§•şùÿÿÿÿHñRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(ÿğÙøHòRMAJORZ
+CODE_SMELL
+…squid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHóRMINORZ
+CODE_SMELL
+Osquid:S1643—"Use a StringBuilder instead.(Ò¿ŞßúÿÿÿÿHôRMINORZ
+CODE_SMELL
+…squid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¢”ÅşÿÿÿÿHõRMINORZ
+CODE_SMELL
+†squid:S1192ç"PDefine a constant instead of duplicating this literal "<option value='" 3 times.(Ÿ—œ„ùÿÿÿÿHöRCRITICALZ
+CODE_SMELL
+Vsquid:S2095Ñ"-Close this "Statement" in a "finally" clause.(ÀŠõÌH÷RBLOCKERZBUG
+Osquid:S1643µ"Use a StringBuilder instead.(®ù©‰şÿÿÿÿHøRMINORZ
+CODE_SMELL
+€squid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡©ıHùRMINORZ
+CODE_SMELL
+squid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯šşyHúRMINORZ
+CODE_SMELL
+Jsquid:S1643”"Use a StringBuilder instead.(ÎÅ‚âHûRMINORZ
+CODE_SMELL
+€squid:S00117º	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸŞáHüRMINORZ
+CODE_SMELL
+…squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä ÅŞüÿÿÿÿHıRMINORZ
+CODE_SMELL
+Osquid:S1643·"Use a StringBuilder instead.(Ò¿ŞßúÿÿÿÿHşRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(ûÙ´9HÿRMAJORZ
+CODE_SMELL
+Osquid:S1643Ô"Use a StringBuilder instead.(ç»¹ÃúÿÿÿÿH€RMINORZ
+CODE_SMELL
+Jsquid:S1643“"Use a StringBuilder instead.(¶º¶HRMINORZ
+CODE_SMELL
+Osquid:S1643ø"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH‚RMINORZ
+CODE_SMELL
+€squid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÉ³‘HƒRMINORZ
+CODE_SMELL
+Ìsquid:S1192ˆ
+"šDefine a constant instead of duplicating this literal "<button class='claseBtn' onclick='atras();' style='margin-left: 152px;'>Ir Atras</button>" 6 times.(ÎĞ¿âH„RCRITICALZ
+CODE_SMELL
+©squid:S1192´"sDefine a constant instead of duplicating this literal "    <th class='cabeceraArea' id='fecha'>Fecha</th>" 3 times.(›ƒ°“şÿÿÿÿH…RCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(ûÙ´9H†RMAJORZ
+CODE_SMELL
+…squid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÔğüıÿÿÿÿH‡RMINORZ
+CODE_SMELL
+squid:S1192é	"NDefine a constant instead of duplicating this literal " &nbsp;&nbsp;" 3 times.(±á òHˆRCRITICALZ
+CODE_SMELL
+Isquid:S1643Ñ"Use a StringBuilder instead.(êŒZH‰RMINORZ
+CODE_SMELL
+squid:S1192€"WDefine a constant instead of duplicating this literal "<tr class='registro'>" 44 times.(ı«›•ıÿÿÿÿHŠRCRITICALZ
+CODE_SMELL
+Vsquid:S2095½"-Close this "Statement" in a "finally" clause.(ÀŠõÌH‹RBLOCKERZBUG
+Osquid:S1643¡"Use a StringBuilder instead.(ò½Ö—şÿÿÿÿHŒRMINORZ
+CODE_SMELL
+ˆsquid:S1192Û"WDefine a constant instead of duplicating this literal "sgt_desc_clasificacion" 8 times.(â¡©ıHRCRITICALZ
+CODE_SMELL
+Isquid:S2178Ú	"Correct this "&" to "&&".(œÕÓHRBLOCKERZ
+CODE_SMELL
+squid:S1192Š	"\Define a constant instead of duplicating this literal "  sgt_cod_requerimiento = '" 4 times.(œÕ‡ïHRCRITICALZ
+CODE_SMELL
+Osquid:S1643Ë	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHRMINORZ
+CODE_SMELL
+Âsquid:S1192‰	"‘Define a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_cod_planta_analista = vv_personal.per_cod_planta AND\n" 3 times.(¦§ )H‘RCRITICALZ
+CODE_SMELL
+€squid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«H’RMINORZ
+CODE_SMELL
+…squid:S00117»	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿Ÿ‚ùÿÿÿÿH“RMINORZ
+CODE_SMELL
+k
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(É§ßŒüÿÿÿÿH”RMAJORZ
+CODE_SMELL
+…squid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿH•RMINORZ
+CODE_SMELL
+Osquid:S1643”"Use a StringBuilder instead.(Ó˜¥ßúÿÿÿÿH–RMINORZ
+CODE_SMELL
+k
+squid:S106“"9Replace this use of System.out or System.err by a logger.(á¼ÿøÿÿÿÿH—RMAJORZ
+CODE_SMELL
+Jsquid:S1643¶"Use a StringBuilder instead.(£ßÂ‰H˜RMINORZ
+CODE_SMELL
+Osquid:S1643ğ	"Use a StringBuilder instead.(Œ‘¾ŞÿÿÿÿÿH™RMINORZ
+CODE_SMELL
+Jsquid:S1643©"Use a StringBuilder instead.(¾Èé½HšRMINORZ
+CODE_SMELL
+Isquid:S2178™"Correct this "&" to "&&".(œÕÓH›RBLOCKERZ
+CODE_SMELL
+Jsquid:S1643á"Use a StringBuilder instead.(¶º¶HœRMINORZ
+CODE_SMELL
+Vsquid:S2095ò"-Close this "Statement" in a "finally" clause.(ÀŠõÌHRBLOCKERZBUG
+€squid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«HRMINORZ
+CODE_SMELL
+Osquid:S1643‘"Use a StringBuilder instead.(Œ‘¾ŞÿÿÿÿÿHŸRMINORZ
+CODE_SMELL
+Xsquid:S00108 ")Either remove or fill this block of code.(É®£H RMAJORZ
+CODE_SMELL
+k
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+Jsquid:S1643î"Use a StringBuilder instead.(ú‡îƒH¢RMINORZ
+CODE_SMELL
+Vsquid:S2095°	"-Close this "Statement" in a "finally" clause.(ÀŠõÌH£RBLOCKERZBUG
+…squid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿH¤RMINORZ
+CODE_SMELL
+Jsquid:S1643Ğ"Use a StringBuilder instead.(††ó£H¥RMINORZ
+CODE_SMELL
+Jsquid:S1643é	"Use a StringBuilder instead.(±á òH¦RMINORZ
+CODE_SMELL
+Osquid:S1643È"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH§RMINORZ
+CODE_SMELL
+Jsquid:S1643Ò	"Use a StringBuilder instead.(¶º¶H¨RMINORZ
+CODE_SMELL
+Jsquid:S1643‚"Use a StringBuilder instead.(§Œ­èH©RMINORZ
+CODE_SMELL
+Jsquid:S1643…"Use a StringBuilder instead.(ÎÆÚ­HªRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(¶º¶H«RMINORZ
+CODE_SMELL
+Osquid:S1643ª"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH¬RMINORZ
+CODE_SMELL
+Osquid:S1643“"Use a StringBuilder instead.(ü¥ûòûÿÿÿÿH­RMINORZ
+CODE_SMELL
+…squid:S2077Ì
+"RUse a variable binding mechanism to construct this query instead of concatenation.(Û§ôªH®RBLOCKERZVULNERABILITY
+Jsquid:S1643ğ"Use a StringBuilder instead.(×€¨‰H¯RMINORZ
+CODE_SMELL
+Jsquid:S1643ó"Use a StringBuilder instead.(¶º¶H°RMINORZ
+CODE_SMELL
+…squid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ƒ²œúÿÿÿÿH±RMINORZ
+CODE_SMELL
+€squid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒáÈòH²RMINORZ
+CODE_SMELL
+Jsquid:S1643ò	"Use a StringBuilder instead.(¶º¶H³RMINORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nH´RMINORZ
+CODE_SMELL
+‚squid:S00100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ööî¨üÿÿÿÿHµRMINORZ
+CODE_SMELL
+…squid:S1192d"UDefine a constant instead of duplicating this literal "  sgt_desc_status \n" 4 times.(‚”†H¶RCRITICALZ
+CODE_SMELL
+€squid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH·RMINORZ
+CODE_SMELL
+Œsquid:S1192­	"[Define a constant instead of duplicating this literal "  sgt_cod_requerimiento ='" 5 times.(œÕ‡ïH¸RCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+…squid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹ÇìşÿÿÿÿHºRMINORZ
+CODE_SMELL
+k
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(«üä„ùÿÿÿÿH»RMAJORZ
+CODE_SMELL
+€squid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÎöH¼RMINORZ
+CODE_SMELL
+Osquid:S1643¡"Use a StringBuilder instead.(­–“ÁúÿÿÿÿH½RMINORZ
+CODE_SMELL
+Osquid:S1643¿	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH¾RMINORZ
+CODE_SMELL
+Osquid:S1643ô"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH¿RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+…squid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHÁRMINORZ
+CODE_SMELL
+[squid:S2095Ô"-Close this "ResultSet" in a "finally" clause.(îÂ¶¿ÿÿÿÿÿHÂRBLOCKERZBUG
+ˆsquid:S1192	"WDefine a constant instead of duplicating this literal "  public.vv_planta, \n" 4 times.(Æ¡‰ÜHÃRCRITICALZ
+CODE_SMELL
+“squid:S1192q"^Define a constant instead of duplicating this literal "  sgt_cod_requerimiento DESC;" 3 times.(ÈŸ©ëûÿÿÿÿHÄRCRITICALZ
+CODE_SMELL
+Jsquid:S1643é"Use a StringBuilder instead.(˜”›ËHÅRMINORZ
+CODE_SMELL
+…squid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éš’ŸşÿÿÿÿHÆRMINORZ
+CODE_SMELL
+€squid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«ÓşHÇRMINORZ
+CODE_SMELL
+µsquid:S1192§	"ƒDefine a constant instead of duplicating this literal "  vv_personal.per_cod_planta = vv_departamento.dep_cod_planta AND " 3 times.(´¾ú˜HÈRCRITICALZ
+CODE_SMELL
+Äsquid:S1192ı"Define a constant instead of duplicating this literal "<td class='cabeceraArea' style='width: 20px; text-align: center;'>Campo</td>" 4 times.(ØŒ¼âÿÿÿÿÿHÉRCRITICALZ
+CODE_SMELL
+€squid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHÊRMINORZ
+CODE_SMELL
+€squid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëï­¤HËRMINORZ
+CODE_SMELL
+Jsquid:S1643ä"Use a StringBuilder instead.(ÆÆƒ¸HÌRMINORZ
+CODE_SMELL
+Isquid:S2178†"Correct this "&" to "&&".(œÕÓHÍRBLOCKERZ
+CODE_SMELL
+Osquid:S1643Á	"Use a StringBuilder instead.(ÚÒ‹ùÿÿÿÿHÎRMINORZ
+CODE_SMELL
+Jsquid:S1643Ì	"Use a StringBuilder instead.(½§ó´HÏRMINORZ
+CODE_SMELL
+…squid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹ÇìşÿÿÿÿHĞRMINORZ
+CODE_SMELL
+Šsquid:S2077ú"RUse a variable binding mechanism to construct this query instead of concatenation.(îÂ¶¿ÿÿÿÿÿHÑRBLOCKERZVULNERABILITY
+Jsquid:S1643Í"Use a StringBuilder instead.(˜”›ËHÒRMINORZ
+CODE_SMELL
+Jsquid:S1643ª"Use a StringBuilder instead.(«‘‚¦HÓRMINORZ
+CODE_SMELL
+Osquid:S1643­"Use a StringBuilder instead.(¡Í÷«üÿÿÿÿHÔRMINORZ
+CODE_SMELL
+‚squid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßı±ÈúÿÿÿÿHÕRMINORZ
+CODE_SMELL
+Jsquid:S1643š"Use a StringBuilder instead.(“åŸ„HÖRMINORZ
+CODE_SMELL
+Jsquid:S1643¯"Use a StringBuilder instead.(¾Èé½H×RMINORZ
+CODE_SMELL
+Osquid:S1643›"Use a StringBuilder instead.(äÂçèúÿÿÿÿHØRMINORZ
+CODE_SMELL
+çsquid:S1192‹"¶Define a constant instead of duplicating this literal "<img src='sgt_imagenes/cancel.png' alt='' title=\"Solicitud de Cambio Rechazado\" style='width: 20px; height: 20px;'>" 4 times.(êŒZHÙRCRITICALZ
+CODE_SMELL
+^squid:S2095Æ"5Close this "PreparedStatement" in a "finally" clause.(Ô¤²ŞHÚRBLOCKERZBUG
+Jsquid:S1643å"Use a StringBuilder instead.(†æµ²HÛRMINORZ
+CODE_SMELL
+°squid:S1192µ"Define a constant instead of duplicating this literal "    <th class='cabeceraArea' id='tipo'>Tipo Requerimiento</th>" 3 times.(»¾û”HÜRCRITICALZ
+CODE_SMELL
+Jsquid:S1643È"Use a StringBuilder instead.(ÆÆƒ¸HİRMINORZ
+CODE_SMELL
+Ysquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHŞRMINORZVULNERABILITY
+€squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­HßRMINORZ
+CODE_SMELL
+ºsquid:S1192™	"ƒDefine a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_cod_status, sgt_cod_tipo_requerimieto,\n" 4 times.(Ó®ûàúÿÿÿÿHàRCRITICALZ
+CODE_SMELL
+Jsquid:S1643æ"Use a StringBuilder instead.(††ó£HáRMINORZ
+CODE_SMELL
+°squid:S1192è	"Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>Status:</td>" 4 times.(¡Î‚˜HâRCRITICALZ
+CODE_SMELL
+Osquid:S1643ç	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHãRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(¾Èé½HäRMINORZ
+CODE_SMELL
+squid:S1192š	"]Define a constant instead of duplicating this literal "  sgt_desc_requerimiento, \n" 3 times.(›ø“¾HåRCRITICALZ
+CODE_SMELL
+f
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ãñŠHæRMAJORZ
+CODE_SMELL
+dsquid:S2589H"7Remove this expression which always evaluates to "true"(“ğãüHçRMAJORZ
+CODE_SMELL
+Jsquid:S1643Ë"Use a StringBuilder instead.(£ßÂ‰HèRMINORZ
+CODE_SMELL
+€squid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHéRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ûÙ´9HêRMAJORZ
+CODE_SMELL
+Jsquid:S1643Ê	"Use a StringBuilder instead.(¶º¶HëRMINORZ
+CODE_SMELL
+Osquid:S1643Ç"Use a StringBuilder instead.(¯® ˆùÿÿÿÿHìRMINORZ
+CODE_SMELL
+Jsquid:S1643§"Use a StringBuilder instead.(¡Î‚˜HíRMINORZ
+CODE_SMELL
+…squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÕÏÿÿÿÿÿHîRMINORZ
+CODE_SMELL
+Jsquid:S1643›"Use a StringBuilder instead.(††ó£HïRMINORZ
+CODE_SMELL
+Osquid:S1643€"Use a StringBuilder instead.(ò½Ö—şÿÿÿÿHğRMINORZ
+CODE_SMELL
+…squid:S2077Ì"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHñRBLOCKERZVULNERABILITY
+…squid:S00117²
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¢”ÅşÿÿÿÿHòRMINORZ
+CODE_SMELL
+Osquid:S1643Ü"Use a StringBuilder instead.(¯® ˆùÿÿÿÿHóRMINORZ
+CODE_SMELL
+Osquid:S1643™"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHôRMINORZ
+CODE_SMELL
+Jsquid:S1643ç"Use a StringBuilder instead.(¶º¶HõRMINORZ
+CODE_SMELL
+esquid:S2589Ñ"7Remove this expression which always evaluates to "true"(“ğãüHöRMAJORZ
+CODE_SMELL
+…squid:S00117µ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü…Æ¨üÿÿÿÿH÷RMINORZ
+CODE_SMELL
+€squid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHøRMINORZ
+CODE_SMELL
+€squid:S1192™"ODefine a constant instead of duplicating this literal "mail.smtp.host" 4 times.(¦®ƒ„HùRCRITICALZ
+CODE_SMELL
+…squid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHúRMINORZ
+CODE_SMELL
+Jsquid:S1643ª"Use a StringBuilder instead.(¡Î‚˜HûRMINORZ
+CODE_SMELL
+¼squid:S1192Ô	"…Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>DescripciÃ³n:</td>" 4 times.(ü¥ûòûÿÿÿÿHüRCRITICALZ
+CODE_SMELL
+Osquid:S1643¶"Use a StringBuilder instead.(ö•ÄûÿÿÿÿHıRMINORZ
+CODE_SMELL
+Osquid:S1643ä"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHşRMINORZ
+CODE_SMELL
+Osquid:S1643œ"Use a StringBuilder instead.( ò‘ıÿÿÿÿHÿRMINORZ
+CODE_SMELL
+Isquid:S2178…"Correct this "&" to "&&".(œÕÓH€RBLOCKERZ
+CODE_SMELL
+…squid:S2077õ"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHRBLOCKERZVULNERABILITY
+Osquid:S1643³"Use a StringBuilder instead.( Ÿ©ÕøÿÿÿÿH‚RMINORZ
+CODE_SMELL
+‰squid:S1192|"YDefine a constant instead of duplicating this literal "sgt_fecha_requerimiento" 13 times.(úÆÑÛHƒRCRITICALZ
+CODE_SMELL
+Xsquid:S00108ã")Either remove or fill this block of code.(É®£H„RMAJORZ
+CODE_SMELL
+^squid:S1481Í"+Remove this unused "planta" local variable.(ìÓÈÿÿÿÿÿH…RMINORZ
+CODE_SMELL
+Xsquid:S00108®")Either remove or fill this block of code.(É®£H†RMAJORZ
+CODE_SMELL
+Vsquid:S2095¼"-Close this "Statement" in a "finally" clause.(ÀŠõÌH‡RBLOCKERZBUG
+€squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê†ĞHˆRMINORZ
+CODE_SMELL
+€squid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛH‰RMINORZ
+CODE_SMELL
+ìsquid:S1192‰"µDefine a constant instead of duplicating this literal "<img src='sgt_imagenes/check.png' alt='' title=\"Solicitud de Cambio Aprobada\" style=' width: 20px; height: 20px;'>" 4 times.( Ÿ©ÕøÿÿÿÿHŠRCRITICALZ
+CODE_SMELL
+Jsquid:S1643Î	"Use a StringBuilder instead.(¶º¶H‹RMINORZ
+CODE_SMELL
+Vsquid:S2095Ò"-Close this "Statement" in a "finally" clause.(ÀŠõÌHŒRBLOCKERZBUG
+Jsquid:S1643Œ"Use a StringBuilder instead.(™Îâ²HRMINORZ
+CODE_SMELL
+^squid:S2095"5Close this "PreparedStatement" in a "finally" clause.(Ô¤²ŞHRBLOCKERZBUG
+…squid:S2077ˆ"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHRBLOCKERZVULNERABILITY
+…squid:S2077¾"RUse a variable binding mechanism to construct this query instead of concatenation.(Û§ôªHRBLOCKERZVULNERABILITY
+Osquid:S1643"Use a StringBuilder instead.(¹ºñâûÿÿÿÿH‘RMINORZ
+CODE_SMELL
+…squid:S2077Ÿ"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞH’RBLOCKERZVULNERABILITY
+âsquid:S1192ö"°Define a constant instead of duplicating this literal "<td class='detalleArea'><button id='editarRequerimientoPendiente' onclick='ejecutaCodigo(this.name);' name='cod" 5 times.(æÃúÏH“RCRITICALZ
+CODE_SMELL
+€squid:S00117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­H”RMINORZ
+CODE_SMELL
+€squid:S00117ø
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛH•RMINORZ
+CODE_SMELL
+Osquid:S1643…"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH–RMINORZ
+CODE_SMELL
+Jsquid:S1643â	"Use a StringBuilder instead.(¶º¶H—RMINORZ
+CODE_SMELL
+xsquid:S1192›"GDefine a constant instead of duplicating this literal "</tr>" 52 times.(¶º¶H˜RCRITICALZ
+CODE_SMELL
+Osquid:S1643ş"Use a StringBuilder instead.( ò‘ıÿÿÿÿH™RMINORZ
+CODE_SMELL
+…squid:S2077ù"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHšRBLOCKERZVULNERABILITY
+Vsquid:S2095¾"-Close this "ResultSet" in a "finally" clause.(Û§ôªH›RBLOCKERZBUG
+xsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ø€àïHœRMAJORZ
+CODE_SMELL
+esquid:S2589Ú"7Remove this expression which always evaluates to "true"(“ğãüHRMAJORZ
+CODE_SMELL
+squid:S1192’
+"KDefine a constant instead of duplicating this literal "</section>" 3 times.(óĞÛ¤ıÿÿÿÿHRCRITICALZ
+CODE_SMELL
+…squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä ÅŞüÿÿÿÿHŸRMINORZ
+CODE_SMELL
+¸squid:S1192Ì	"†Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>Elaborado por:</td>" 3 times.(½§ó´H RCRITICALZ
+CODE_SMELL
+e
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(“Ÿİ=H¡RMAJORZ
+CODE_SMELL
+€squid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH¢RMINORZ
+CODE_SMELL
+Jsquid:S1643‰"Use a StringBuilder instead.(¡Î‚˜H£RMINORZ
+CODE_SMELL
+’squid:S1192°"\Define a constant instead of duplicating this literal "<table id='tablaPendiente'>" 4 times.(ÿÕÓùùÿÿÿÿH¤RCRITICALZ
+CODE_SMELL
+€squid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«ÓşH¥RMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH¦RMINORZ
+CODE_SMELL
+Osquid:S1643–"Use a StringBuilder instead.(ü¥ûòûÿÿÿÿH§RMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(í¦ËİÿÿÿÿÿH¨RMINORZ
+CODE_SMELL
+Œsquid:S1192ß"[Define a constant instead of duplicating this literal "<td class='detalleArea' >" 25 times.(ÎÅ‚âH©RCRITICALZ
+CODE_SMELL
+€squid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·HªRMINORZ
+CODE_SMELL
+¯squid:S1192¡"~Define a constant instead of duplicating this literal "  vv_planta.pla_cod_planta = vv_personal.per_cod_planta AND\n" 5 times.(Ã …ˆH«RCRITICALZ
+CODE_SMELL
+Jsquid:S1643±"Use a StringBuilder instead.(˜”›ËH¬RMINORZ
+CODE_SMELL
+Jsquid:S1643í"Use a StringBuilder instead.(½§ó´H­RMINORZ
+CODE_SMELL
+Osquid:S1643Ò"Use a StringBuilder instead.(›¬ÅıÿÿÿÿÿH®RMINORZ
+CODE_SMELL
+Jsquid:S1643°"Use a StringBuilder instead.(¶º¶H¯RMINORZ
+CODE_SMELL
+Xsquid:S00108Ö")Either remove or fill this block of code.(É®£H°RMAJORZ
+CODE_SMELL
+Osquid:S1643ƒ"Use a StringBuilder instead.(¹ïû±ûÿÿÿÿH±RMINORZ
+CODE_SMELL
+Ysquid:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH²RMINORZVULNERABILITY
+^squid:S1481±
+"+Remove this unused "planta" local variable.(ìÓÈÿÿÿÿÿH³RMINORZ
+CODE_SMELL
+Vsquid:S2095á"-Close this "Statement" in a "finally" clause.(ÀŠõÌH´RBLOCKERZBUG
+Osquid:S1643³"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHµRMINORZ
+CODE_SMELL
+Osquid:S1643³"Use a StringBuilder instead.(äóıøÿÿÿÿH¶RMINORZ
+CODE_SMELL
+Osquid:S1643‘"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH·RMINORZ
+CODE_SMELL
+squid:S1192‡"gDefine a constant instead of duplicating this literal "INSERT INTO t_sgt_log_requerimiento(\n" 4 times.(šÛÿÿûÿÿÿÿH¸RCRITICALZ
+CODE_SMELL
+Osquid:S1643‰"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH¹RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿHºRMAJORZ
+CODE_SMELL
+|squid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à—«NH»RMINORZ
+CODE_SMELL
+~squid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nH¼RMINORZ
+CODE_SMELL
+squid:S00117´
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nH½RMINORZ
+CODE_SMELL
+Jsquid:S1643ã"Use a StringBuilder instead.(¶º¶H¾RMINORZ
+CODE_SMELL
+Ysquid:S1148§"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¿RMINORZVULNERABILITY
+Jsquid:S1643"Use a StringBuilder instead.(½§ó´HÀRMINORZ
+CODE_SMELL
+Osquid:S1643™"Use a StringBuilder instead.(©©»üÿÿÿÿHÁRMINORZ
+CODE_SMELL
+}squid:S00100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÓÉHÂRMINORZ
+CODE_SMELL
+k
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿHÃRMAJORZ
+CODE_SMELL
+Ysquid:S1148É"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÄRMINORZVULNERABILITY
+xsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ûÙ´9HÅRMAJORZ
+CODE_SMELL
+Jsquid:S1643‚"Use a StringBuilder instead.(ÆÆƒ¸HÆRMINORZ
+CODE_SMELL
+Jsquid:S1643÷"Use a StringBuilder instead.(¶º¶HÇRMINORZ
+CODE_SMELL
+¹squid:S1192ˆ	"‡Define a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_ficha_analista = vv_personal.per_ficha AND\n" 3 times.(•Æ¢HÈRCRITICALZ
+CODE_SMELL
+}squid:S1192î"LDefine a constant instead of duplicating this literal "ORDER BY \n" 3 times.(Ü°©HÉRCRITICALZ
+CODE_SMELL
+Jsquid:S1643Û"Use a StringBuilder instead.(ğôÑHÊRMINORZ
+CODE_SMELL
+Osquid:S1643ß"Use a StringBuilder instead.(—Ñ‹‡ıÿÿÿÿHËRMINORZ
+CODE_SMELL
+Jsquid:S1643ë"Use a StringBuilder instead.(¶º¶HÌRMINORZ
+CODE_SMELL
+Jsquid:S1643´"Use a StringBuilder instead.(¶º¶HÍRMINORZ
+CODE_SMELL
+`squid:S1172§"2Remove this unused method parameter "usuario_log".(ÒÉ³‘HÎRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ê†íåùÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(™™à>HĞRMAJORZ
+CODE_SMELL
+Osquid:S1643Ó	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÑRMINORZ
+CODE_SMELL
+Osquid:S1643ç"Use a StringBuilder instead.(Ÿ—œ„ùÿÿÿÿHÒRMINORZ
+CODE_SMELL
+€squid:S00117ü
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸŞáHÓRMINORZ
+CODE_SMELL
+€squid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·HÔRMINORZ
+CODE_SMELL
+Osquid:S1643Õ"Use a StringBuilder instead.(òùéÍûÿÿÿÿHÕRMINORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHÖRMINORZ
+CODE_SMELL
+Osquid:S1643€"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH×RMINORZ
+CODE_SMELL
+e
+squid:S106—"9Replace this use of System.out or System.err by a logger.(éÆMHØRMAJORZ
+CODE_SMELL
+squid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHÙRMINORZ
+CODE_SMELL
+€squid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·HÚRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(¶º¶HÛRMINORZ
+CODE_SMELL
+Jsquid:S1643¡"Use a StringBuilder instead.(¶º¶HÜRMINORZ
+CODE_SMELL
+€squid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«HİRMINORZ
+CODE_SMELL
+Osquid:S1643Ö"Use a StringBuilder instead.(­–“ÁúÿÿÿÿHŞRMINORZ
+CODE_SMELL
+Jsquid:S1643í	"Use a StringBuilder instead.(¾Èé½HßRMINORZ
+CODE_SMELL
+squid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHàRMINORZ
+CODE_SMELL
+squid:S1192¢	"\Define a constant instead of duplicating this literal "  public.t_sgt_urgencia, \n" 3 times.(€‘ÆHáRCRITICALZ
+CODE_SMELL
+Osquid:S1643ñ	"Use a StringBuilder instead.(äóıøÿÿÿÿHâRMINORZ
+CODE_SMELL
+k
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(İó…ºûÿÿÿÿHãRMAJORZ
+CODE_SMELL
+Jsquid:S1643Â	"Use a StringBuilder instead.(¶º¶HäRMINORZ
+CODE_SMELL
+®squid:S1192¶"xDefine a constant instead of duplicating this literal "<th class='cabeceraArea' id='clasi'>ClasificaciÃ³n</th>" 3 times.(èÙ–üÿÿÿÿHåRCRITICALZ
+CODE_SMELL
+€squid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šè€ÀHæRMINORZ
+CODE_SMELL
+squid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHçRMINORZ
+CODE_SMELL
+Xsquid:S00108­")Either remove or fill this block of code.(É®£HèRMAJORZ
+CODE_SMELL
+Jsquid:S1643Œ"Use a StringBuilder instead.(¶º¶HéRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿHêRMAJORZ
+CODE_SMELL
+€squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHëRMINORZ
+CODE_SMELL
+Jsquid:S1643¤"Use a StringBuilder instead.(¶º¶HìRMINORZ
+CODE_SMELL
+…squid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£åÊûÿÿÿÿHíRMINORZ
+CODE_SMELL
+Jsquid:S1643Í"Use a StringBuilder instead.(¶º¶HîRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(×œéƒùÿÿÿÿHïRMAJORZ
+CODE_SMELL
+Osquid:S1643Ã	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHğRMINORZ
+CODE_SMELL
+…squid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü…Æ¨üÿÿÿÿHñRMINORZ
+CODE_SMELL
+Jsquid:S1643›"Use a StringBuilder instead.(¶º¶HòRMINORZ
+CODE_SMELL
+squid:S1192i"XDefine a constant instead of duplicating this literal "  public.vv_personal \n" 4 times.(ªòÿ°üÿÿÿÿHóRCRITICALZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(·Ÿ´›HôRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ûÙ´9HõRMAJORZ
+CODE_SMELL
+Jsquid:S1643Ã"Use a StringBuilder instead.(ú‡îƒHöRMINORZ
+CODE_SMELL
+Jsquid:S1643—"Use a StringBuilder instead.(÷ğÕ”H÷RMINORZ
+CODE_SMELL
+Vsquid:S2095º"-Close this "Statement" in a "finally" clause.(ÀŠõÌHøRBLOCKERZBUG
+ósquid:S1192“"¼Define a constant instead of duplicating this literal "<img src='sgt_imagenes/inbox.png' alt='' title=\"Requerimiento pendiente por asignar\" style=' width: 20px; height: 20px;'>" 4 times.(ºšÔ¯şÿÿÿÿHùRCRITICALZ
+CODE_SMELL
+ˆsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(êáÉüÿÿÿÿHúRCRITICALZ
+CODE_SMELL
+Osquid:S1643ß	"Use a StringBuilder instead.(ƒæ¦ËøÿÿÿÿHûRMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(òùéÍûÿÿÿÿHüRMINORZ
+CODE_SMELL
+Àsquid:S1192n"ŠDefine a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_cod_status = t_sgt_status.sgt_cod_status AND \n" 3 times.(ıÖÑÖüÿÿÿÿHıRCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ûÙ´9HşRMAJORZ
+CODE_SMELL
+Jsquid:S1643é"Use a StringBuilder instead.(•îŞÆHÿRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ûÙ´9H€RMAJORZ
+CODE_SMELL
+Jsquid:S1643×"Use a StringBuilder instead.(ÚÒ´œHRMINORZ
+CODE_SMELL
+Vsquid:S2095±"-Close this "Statement" in a "finally" clause.(ÀŠõÌH‚RBLOCKERZBUG
+Jsquid:S1643Ê"Use a StringBuilder instead.(«‘‚¦HƒRMINORZ
+CODE_SMELL
+…squid:S2077»"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞH„RBLOCKERZVULNERABILITY
+Jsquid:S1643’"Use a StringBuilder instead.(›Ã¹ÆH…RMINORZ
+CODE_SMELL
+Jsquid:S1643õ"Use a StringBuilder instead.(«‘‚¦H†RMINORZ
+CODE_SMELL
+Osquid:S1643™"Use a StringBuilder instead.(—Ñ‹‡ıÿÿÿÿH‡RMINORZ
+CODE_SMELL
+Osquid:S1643É"Use a StringBuilder instead.(¡Í÷«üÿÿÿÿHˆRMINORZ
+CODE_SMELL
+Osquid:S1643¿"Use a StringBuilder instead.(ç»¹ÃúÿÿÿÿH‰RMINORZ
+CODE_SMELL
+Osquid:S1643‰"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHŠRMINORZ
+CODE_SMELL
+…squid:S2077â"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞH‹RBLOCKERZVULNERABILITY
+Jsquid:S1643Ø	"Use a StringBuilder instead.(Æ¥şæHŒRMINORZ
+CODE_SMELL
+…squid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éš’ŸşÿÿÿÿHRMINORZ
+CODE_SMELL
+Isquid:S2178Í"Correct this "&" to "&&".(œÕÓHRBLOCKERZ
+CODE_SMELL
+squid:S1192ò"×Define a constant instead of duplicating this literal "<img src='sgt_imagenes/asignado.png' alt='' title=\"Requerimiento asignado\" style=' position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(¯® ˆùÿÿÿÿHRCRITICALZ
+CODE_SMELL
+Isquid:S2178°"Correct this "&" to "&&".(œÕÓHRBLOCKERZ
+CODE_SMELL
+Osquid:S1643Ş"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH‘RMINORZ
+CODE_SMELL
+…squid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿH’RMINORZ
+CODE_SMELL
+€squid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¤¼€H“RMINORZ
+CODE_SMELL
+Vsquid:S2095	"-Close this "ResultSet" in a "finally" clause.(Û§ôªH”RBLOCKERZBUG
+Vsquid:S2095û"-Close this "Statement" in a "finally" clause.(ÀŠõÌH•RBLOCKERZBUG
+Vsquid:S2095ò
+"-Close this "Statement" in a "finally" clause.(ÀŠõÌH–RBLOCKERZBUG
+Ysquid:S1148Õ"#Use a logger to log this exception.(¸Õª¿şÿÿÿÿH—RMINORZVULNERABILITY
+Osquid:S1643ƒ"Use a StringBuilder instead.(¡Í÷«üÿÿÿÿH˜RMINORZ
+CODE_SMELL
+Jsquid:S1643à"Use a StringBuilder instead.(æÃúÏH™RMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(¶º¶HšRMINORZ
+CODE_SMELL
+Osquid:S1643å"Use a StringBuilder instead.(¡Í÷«üÿÿÿÿH›RMINORZ
+CODE_SMELL
+Osquid:S1643‡"Use a StringBuilder instead.(½ê³ÖøÿÿÿÿHœRMINORZ
+CODE_SMELL
+Jsquid:S1643ø"Use a StringBuilder instead.(¶º¶HRMINORZ
+CODE_SMELL
+squid:S1192b"hDefine a constant instead of duplicating this literal "  t_sgt_requerimiento.sgt_cod_status,\n" 4 times.(ßú÷¨üÿÿÿÿHRCRITICALZ
+CODE_SMELL
+squid:S1192¡	"ZDefine a constant instead of duplicating this literal "  public.t_sgt_status, \n" 4 times.(îğ¨ÔùÿÿÿÿHŸRCRITICALZ
+CODE_SMELL
+…squid:S2077ó
+"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞH RBLOCKERZVULNERABILITY
+€squid:S00117÷
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH¡RMINORZ
+CODE_SMELL
+Åsquid:S1192l"•Define a constant instead of duplicating this literal "  t_sgt_requerimiento.per_cod_planta_solicitante = vv_personal.per_cod_planta AND\n" 12 times.(÷âëH¢RCRITICALZ
+CODE_SMELL
+[squid:S2095ú"-Close this "ResultSet" in a "finally" clause.(îÂ¶¿ÿÿÿÿÿH£RBLOCKERZBUG
+~squid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ê†íåùÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+Osquid:S1643«"Use a StringBuilder instead.(í¦ËİÿÿÿÿÿH¥RMINORZ
+CODE_SMELL
+Jsquid:S1643­"Use a StringBuilder instead.(¶º¶H¦RMINORZ
+CODE_SMELL
+Osquid:S1643ˆ"Use a StringBuilder instead.(¹ïû±ûÿÿÿÿH§RMINORZ
+CODE_SMELL
+Jsquid:S1643Å"Use a StringBuilder instead.(×€¨‰H¨RMINORZ
+CODE_SMELL
+Osquid:S1643ã"Use a StringBuilder instead.(í¦ËİÿÿÿÿÿH©RMINORZ
+CODE_SMELL
+squid:S1192û"WDefine a constant instead of duplicating this literal "  public.vv_personal\n" 8 times.(ªòÿ°üÿÿÿÿHªRCRITICALZ
+CODE_SMELL
+€squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·H«RMINORZ
+CODE_SMELL
+…squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿Ÿ‚ùÿÿÿÿH¬RMINORZ
+CODE_SMELL
+Jsquid:S1643â"Use a StringBuilder instead.(è‹Ì§H­RMINORZ
+CODE_SMELL
+‚squid:S00100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä ÅŞüÿÿÿÿH®RMINORZ
+CODE_SMELL
+…squid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü…Æ¨üÿÿÿÿH¯RMINORZ
+CODE_SMELL
+Osquid:S1643Ã"Use a StringBuilder instead.(›âÕœşÿÿÿÿH°RMINORZ
+CODE_SMELL
+Jsquid:S1643ü"Use a StringBuilder instead.(“åŸ„H±RMINORZ
+CODE_SMELL
+€squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­H²RMINORZ
+CODE_SMELL
+Osquid:S1643à"Use a StringBuilder instead.(®ù©‰şÿÿÿÿH³RMINORZ
+CODE_SMELL
+“squid:S1192è"ÜDefine a constant instead of duplicating this literal "<img src='sgt_imagenes/cancel.png' alt='' title=\"Solicitud de Cambio Rechazado\" style=' position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(æµÅèÿÿÿÿÿH´RCRITICALZ
+CODE_SMELL
+Osquid:S1643Š"Use a StringBuilder instead.(ëæÀÑÿÿÿÿÿHµRMINORZ
+CODE_SMELL
+‡squid:S1192x"WDefine a constant instead of duplicating this literal "sgt_cod_requerimiento" 13 times.(‰×øÛH¶RCRITICALZ
+CODE_SMELL
+e
+squid:S106="9Replace this use of System.out or System.err by a logger.(‹âÚ†H·RMAJORZ
+CODE_SMELL
+…squid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éš’ŸşÿÿÿÿH¸RMINORZ
+CODE_SMELL
+Ysquid:S1148»"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¹RMINORZVULNERABILITY
+Osquid:S1643û"Use a StringBuilder instead.(—Ñ‹‡ıÿÿÿÿHºRMINORZ
+CODE_SMELL
+Jsquid:S1643†"Use a StringBuilder instead.(†æµ²H»RMINORZ
+CODE_SMELL
+…squid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿH¼RMINORZ
+CODE_SMELL
+e
+squid:S106:"9Replace this use of System.out or System.err by a logger.(™åŞÖH½RMAJORZ
+CODE_SMELL
+Jsquid:S1643Ë"Use a StringBuilder instead.(æÃúÏH¾RMINORZ
+CODE_SMELL
+Xsquid:S00108Á")Either remove or fill this block of code.(É®£H¿RMAJORZ
+CODE_SMELL
+Ysquid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÀRMINORZVULNERABILITY
+Zsquid:S1481¯"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿHÁRMINORZ
+CODE_SMELL
+Osquid:S1643ª"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÂRMINORZ
+CODE_SMELL
+Isquid:S2178˜"Correct this "&" to "&&".(œÕÓHÃRBLOCKERZ
+CODE_SMELL
+k
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+Osquid:S1643Ç	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÅRMINORZ
+CODE_SMELL
+Jsquid:S1643£"Use a StringBuilder instead.(¾Èé½HÆRMINORZ
+CODE_SMELL
+€squid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÎöHÇRMINORZ
+CODE_SMELL
+Jsquid:S1643É"Use a StringBuilder instead.(ÎÅ‚âHÈRMINORZ
+CODE_SMELL
+Jsquid:S1643ï"Use a StringBuilder instead.(¶º¶HÉRMINORZ
+CODE_SMELL
+Osquid:S1643˜"Use a StringBuilder instead.(Ë•ÜùÿÿÿÿHÊRMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHËRMINORZ
+CODE_SMELL
+€squid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·HÌRMINORZ
+CODE_SMELL
+êsquid:S1192“"¸Define a constant instead of duplicating this literal "        <td id=\"detalleReque\" style=\"padding-top: 20px;font-size: 14px; text-align:left; font-family: sans-serif;\">" 4 times.(Ø¼æªHÍRCRITICALZ
+CODE_SMELL
+^squid:S2095…"5Close this "PreparedStatement" in a "finally" clause.(Ô¤²ŞHÎRBLOCKERZBUG
+Vsquid:S2095Œ	"-Close this "Statement" in a "finally" clause.(ÀŠõÌHÏRBLOCKERZBUG
+Jsquid:S1643„"Use a StringBuilder instead.(¶º¶HĞRMINORZ
+CODE_SMELL
+Vsquid:S2095§"-Close this "Statement" in a "finally" clause.(ÀŠõÌHÑRBLOCKERZBUG
+¼squid:S1192k"‹Define a constant instead of duplicating this literal "  t_sgt_requerimiento.per_ficha_solicitante = vv_personal.per_ficha AND\n" 11 times.(¢…ÍÅHÒRCRITICALZ
+CODE_SMELL
+e
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(“Ÿİ=HÓRMAJORZ
+CODE_SMELL
+‡squid:S1192—	"VDefine a constant instead of duplicating this literal "  sgt_desc_status, \n" 4 times.(ºÿ§—HÔRCRITICALZ
+CODE_SMELL
+Osquid:S1643–"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÕRMINORZ
+CODE_SMELL
+Ÿsquid:S1192¡"iDefine a constant instead of duplicating this literal "<label id='rRechazado'>Rechazada</label>" 3 times.(ò½Ö—şÿÿÿÿHÖRCRITICALZ
+CODE_SMELL
+Jsquid:S1643Ó"Use a StringBuilder instead.(¡é²H×RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿHØRMAJORZ
+CODE_SMELL
+Jsquid:S1643ï"Use a StringBuilder instead.(¡é²HÙRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineû
+"<This block of commented-out lines of code should be removed.(òÜã¢úÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+Osquid:S1643ú"Use a StringBuilder instead.(Ë•ÜùÿÿÿÿHÛRMINORZ
+CODE_SMELL
+Osquid:S1643è"Use a StringBuilder instead.(æµÅèÿÿÿÿÿHÜRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(ÎÅ‚âHİRMINORZ
+CODE_SMELL
+Jsquid:S1643‚"Use a StringBuilder instead.(¾Èé½HŞRMINORZ
+CODE_SMELL
+Xsquid:S00108£
+")Either remove or fill this block of code.(É®£HßRMAJORZ
+CODE_SMELL
+Osquid:S1643Â"Use a StringBuilder instead.(Ë•ÜùÿÿÿÿHàRMINORZ
+CODE_SMELL
+Jsquid:S1643Ú"Use a StringBuilder instead.(×€¨‰HáRMINORZ
+CODE_SMELL
+k
+squid:S106†"9Replace this use of System.out or System.err by a logger.(”­ó°ıÿÿÿÿHâRMAJORZ
+CODE_SMELL
+Osquid:S1643æ"Use a StringBuilder instead.(½ê³ÖøÿÿÿÿHãRMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(½î«¦ÿÿÿÿÿHäRMAJORZ
+CODE_SMELL
+Jsquid:S1643À	"Use a StringBuilder instead.(§Œ­èHåRMINORZ
+CODE_SMELL
+Osquid:S1643“"Use a StringBuilder instead.(¹ºñâûÿÿÿÿHæRMINORZ
+CODE_SMELL
+ysquid:S1192e"IDefine a constant instead of duplicating this literal "FROM \n" 21 times.(Ì‚†¹HçRCRITICALZ
+CODE_SMELL
+Ysquid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHèRMINORZVULNERABILITY
+Isquid:S2178û	"Correct this "&" to "&&".(œ¢±HéRBLOCKERZ
+CODE_SMELL
+squid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHêRMINORZ
+CODE_SMELL
+€squid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆ½™HëRMINORZ
+CODE_SMELL
+Jsquid:S1643É"Use a StringBuilder instead.(¾Èé½HìRMINORZ
+CODE_SMELL
+Jsquid:S1643Æ	"Use a StringBuilder instead.(¶º¶HíRMINORZ
+CODE_SMELL
+Jsquid:S1643ß"Use a StringBuilder instead.(«‘‚¦HîRMINORZ
+CODE_SMELL
+Osquid:S1643ï	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHïRMINORZ
+CODE_SMELL
+f
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(‘ûóÁHğRMAJORZ
+CODE_SMELL
+Jsquid:S1643˜"Use a StringBuilder instead.(¶º¶HñRMINORZ
+CODE_SMELL
+€squid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡©ıHòRMINORZ
+CODE_SMELL
+Xsquid:S00108ó")Either remove or fill this block of code.(É®£HóRMAJORZ
+CODE_SMELL
+“squid:S1192a"cDefine a constant instead of duplicating this literal "  sgt_desc_tipo_requerimiento, \n" 11 times.(¯  ˆHôRCRITICALZ
+CODE_SMELL
+Osquid:S1643Î"Use a StringBuilder instead.(©©»üÿÿÿÿHõRMINORZ
+CODE_SMELL
+zsquid:S1192ú"IDefine a constant instead of duplicating this literal "</table>" 8 times.(ÿºÀ½HöRCRITICALZ
+CODE_SMELL
+Ysquid:S1148š"#Use a logger to log this exception.(¸Õª¿şÿÿÿÿH÷RMINORZVULNERABILITY
+Osquid:S1643Á"Use a StringBuilder instead.(­–“ÁúÿÿÿÿHøRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ûÙ´9HùRMAJORZ
+CODE_SMELL
+k
+squid:S106©"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿHúRMAJORZ
+CODE_SMELL
+Osquid:S1643’"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHûRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(æÃúÏHüRMINORZ
+CODE_SMELL
+…squid:S00117ı
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿Ÿ‚ùÿÿÿÿHıRMINORZ
+CODE_SMELL
+€squid:S00117¶	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆHşRMINORZ
+CODE_SMELL
+Xsquid:S00108Ş")Either remove or fill this block of code.(É®£HÿRMAJORZ
+CODE_SMELL
+bsquid:S1481ñ"/Remove this unused "tipo_reque" local variable.(‹ÔğüıÿÿÿÿH€RMINORZ
+CODE_SMELL
+‚squid:S1192"LDefine a constant instead of duplicating this literal "    </tr>\n" 5 times.(úÒ¶ÿÿÿÿÿHRCRITICALZ
+CODE_SMELL
+èsquid:S1192™"±Define a constant instead of duplicating this literal "<td ><button id='editarRequerimientoPendiente' formtarget='_blank' onclick='ejecutaCodigo(this.name);' name='cod" 3 times.(—Ñ‹‡ıÿÿÿÿH‚RCRITICALZ
+CODE_SMELL
+Osquid:S1643Ï	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHƒRMINORZ
+CODE_SMELL
+Jsquid:S1643Š"Use a StringBuilder instead.(±á òH„RMINORZ
+CODE_SMELL
+…squid:S2077«"RUse a variable binding mechanism to construct this query instead of concatenation.(Û§ôªH…RBLOCKERZVULNERABILITY
+Vsquid:S2095‡"-Close this "Statement" in a "finally" clause.(ÀŠõÌH†RBLOCKERZBUG
+Šsquid:S2077Ô"RUse a variable binding mechanism to construct this query instead of concatenation.(îÂ¶¿ÿÿÿÿÿH‡RBLOCKERZVULNERABILITY
+e
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(“Ÿİ=HˆRMAJORZ
+CODE_SMELL
+Jsquid:S1643Ş"Use a StringBuilder instead.(¾Èé½H‰RMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(ò½Ö—şÿÿÿÿHŠRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ğ§•şùÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+Jsquid:S1643Ä	"Use a StringBuilder instead.(†æµ²HŒRMINORZ
+CODE_SMELL
+€squid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡©ıHRMINORZ
+CODE_SMELL
+€squid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğŸœõHRMINORZ
+CODE_SMELL
+squid:S00117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆHRMINORZ
+CODE_SMELL
+Osquid:S1643ò"Use a StringBuilder instead.(¹ºñâûÿÿÿÿHRMINORZ
+CODE_SMELL
+Osquid:S1643Œ"Use a StringBuilder instead.(½ê³ÖøÿÿÿÿH‘RMINORZ
+CODE_SMELL
+Osquid:S1643§"Use a StringBuilder instead.(¯® ˆùÿÿÿÿH’RMINORZ
+CODE_SMELL
+Isquid:S1643µ"Use a StringBuilder instead.(êŒZH“RMINORZ
+CODE_SMELL
+asquid:S1313¢"0Make this IP "10.183.9.20" address configurable.(À½ıíH”RMINORZVULNERABILITY
+Osquid:S1643‹"Use a StringBuilder instead.(»ôœ°üÿÿÿÿH•RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(ä‡ÁƒşÿÿÿÿH–RMAJORZ
+CODE_SMELL
+Osquid:S1643•"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH—RMINORZ
+CODE_SMELL
+Jsquid:S1643á	"Use a StringBuilder instead.(¾Èé½H˜RMINORZ
+CODE_SMELL
+ƒsquid:S1192º	"RDefine a constant instead of duplicating this literal "sgt_desc_urgencia" 4 times.(ÍŸŞáH™RCRITICALZ
+CODE_SMELL
+Jsquid:S1643è	"Use a StringBuilder instead.(¡Î‚˜HšRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(×œéƒùÿÿÿÿH›RMAJORZ
+CODE_SMELL
+Xsquid:S00108")Either remove or fill this block of code.(É®£HœRMAJORZ
+CODE_SMELL
+…squid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÇ’¡ùÿÿÿÿHRMINORZ
+CODE_SMELL
+squid:S1192ä"çDefine a constant instead of duplicating this literal "<img src='sgt_imagenes/clock2.png' alt='' title=\"Solicitud de Cambio Pendiente por Aprobar\" style='position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(©©»üÿÿÿÿHRCRITICALZ
+CODE_SMELL
+csquid:S1172Ù"0Remove this unused method parameter "ficha_log".(ä ÅŞüÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+Ysquid:S1148¥"#Use a logger to log this exception.(¸Õª¿şÿÿÿÿH RMINORZVULNERABILITY
+Osquid:S1643â"Use a StringBuilder instead.(Ò¿ŞßúÿÿÿÿH¡RMINORZ
+CODE_SMELL
+—squid:S1192˜"aDefine a constant instead of duplicating this literal "  public.t_sgt_clasificacion, \n" 3 times.(ñü±ßÿÿÿÿÿH¢RCRITICALZ
+CODE_SMELL
+…squid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ööî¨üÿÿÿÿH£RMINORZ
+CODE_SMELL
+Osquid:S1643Ç"Use a StringBuilder instead.(í¦ËİÿÿÿÿÿH¤RMINORZ
+CODE_SMELL
+·squid:S1192È	"…Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>Departamento:</td>" 3 times.(•îŞÆH¥RCRITICALZ
+CODE_SMELL
+Jsquid:S1643»"Use a StringBuilder instead.(††ó£H¦RMINORZ
+CODE_SMELL
+Osquid:S1643Ï"Use a StringBuilder instead.( Ÿ©ÕøÿÿÿÿH§RMINORZ
+CODE_SMELL
+Osquid:S1643€"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH¨RMINORZ
+CODE_SMELL
+squid:S00117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·H©RMINORZ
+CODE_SMELL
+€squid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­HªRMINORZ
+CODE_SMELL
+Jsquid:S1643‡"Use a StringBuilder instead.(˜”›ËH«RMINORZ
+CODE_SMELL
+€squid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­H¬RMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine–
+"<This block of commented-out lines of code should be removed.(ûÙ´9H­RMAJORZ
+CODE_SMELL
+€squid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÈÆáH®RMINORZ
+CODE_SMELL
+…squid:S2077Ó"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞH¯RBLOCKERZVULNERABILITY
+Jsquid:S1643­"Use a StringBuilder instead.(™Îâ²H°RMINORZ
+CODE_SMELL
+Osquid:S1643‰"Use a StringBuilder instead.( Ÿ©ÕøÿÿÿÿH±RMINORZ
+CODE_SMELL
+squid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nH²RMINORZ
+CODE_SMELL
+…squid:S00117ş
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ƒ²œúÿÿÿÿH³RMINORZ
+CODE_SMELL
+Ysquid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH´RMINORZVULNERABILITY
+”squid:S1192û"cDefine a constant instead of duplicating this literal "<table id='tablaPendienteDetalle'>" 4 times.(½óø—HµRCRITICALZ
+CODE_SMELL
+…squid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•…şãúÿÿÿÿH¶RMINORZ
+CODE_SMELL
+Jsquid:S1643È	"Use a StringBuilder instead.(•îŞÆH·RMINORZ
+CODE_SMELL
+Vsquid:S2095Ö"-Close this "Statement" in a "finally" clause.(ÀŠõÌH¸RBLOCKERZBUG
+Osquid:S1643Ì"Use a StringBuilder instead.(Ò¿ŞßúÿÿÿÿH¹RMINORZ
+CODE_SMELL
+‚squid:S00100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èš‘–ûÿÿÿÿHºRMINORZ
+CODE_SMELL
+…squid:S00117¼	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ƒ²œúÿÿÿÿH»RMINORZ
+CODE_SMELL
+Osquid:S1643‚"Use a StringBuilder instead.(®ù©‰şÿÿÿÿH¼RMINORZ
+CODE_SMELL
+€squid:S00117ú
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·H½RMINORZ
+CODE_SMELL
+€squid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛH¾RMINORZ
+CODE_SMELL
+Xsquid:S00108¿")Either remove or fill this block of code.(É®£H¿RMAJORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(¶º¶HÀRMINORZ
+CODE_SMELL
+squid:S1192ñ	"YDefine a constant instead of duplicating this literal " &nbsp;&nbsp;&nbsp;</td>" 3 times.(äóıøÿÿÿÿHÁRCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(™™à>HÂRMAJORZ
+CODE_SMELL
+Isquid:S2178ã"Correct this "&" to "&&".(œÕÓHÃRBLOCKERZ
+CODE_SMELL
+Osquid:S1643è"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÄRMINORZ
+CODE_SMELL
+|squid:S1192z"LDefine a constant instead of duplicating this literal "per_nombre" 21 times.(©ˆïÆHÅRCRITICALZ
+CODE_SMELL
+Jsquid:S1643ù"Use a StringBuilder instead.(¾Èé½HÆRMINORZ
+CODE_SMELL
+Isquid:S1643‹"Use a StringBuilder instead.(êŒZHÇRMINORZ
+CODE_SMELL
+Jsquid:S1643 "Use a StringBuilder instead.(¾Èé½HÈRMINORZ
+CODE_SMELL
+squid:S1192Ÿ"gDefine a constant instead of duplicating this literal "<label id='rAprobado'>Aprobada</label>" 3 times.( ò‘ıÿÿÿÿHÉRCRITICALZ
+CODE_SMELL
+f
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(ø–øÛHÊRMAJORZ
+CODE_SMELL
+…squid:S2077Ò"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHËRBLOCKERZVULNERABILITY
+Osquid:S1643®"Use a StringBuilder instead.(Éä¥æşÿÿÿÿHÌRMINORZ
+CODE_SMELL
+squid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHÍRMINORZ
+CODE_SMELL
+…squid:S2077ã"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞHÎRBLOCKERZVULNERABILITY
+squid:S1192`"_Define a constant instead of duplicating this literal "  sgt_fecha_requerimiento, \n" 11 times.(°ñå¶HÏRCRITICALZ
+CODE_SMELL
+ãsquid:S1192"±Define a constant instead of duplicating this literal "<img src='sgt_imagenes/cancel2.png' alt='' title=\"Requerimiento cancelado\" style='width: 20px; height: 20px;'>" 4 times.(¡é²HĞRCRITICALZ
+CODE_SMELL
+€squid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÎöHÑRMINORZ
+CODE_SMELL
+Osquid:S1643„"Use a StringBuilder instead.(Éä¥æşÿÿÿÿHÒRMINORZ
+CODE_SMELL
+Ysquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÓRMINORZVULNERABILITY
+¶squid:S1192Ä	"„Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>A Nombre de:</td>" 4 times.(†æµ²HÔRCRITICALZ
+CODE_SMELL
+ squid:S1192•"oDefine a constant instead of duplicating this literal "  sgt_cod_status, sgt_cod_tipo_requerimieto \n" 3 times.(î‚ƒèHÕRCRITICALZ
+CODE_SMELL
+Osquid:S1643Æ"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÖRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ûÙ´9H×RMAJORZ
+CODE_SMELL
+Xsquid:S00108Ï")Either remove or fill this block of code.(É®£HØRMAJORZ
+CODE_SMELL
+Xsquid:S00108ƒ")Either remove or fill this block of code.(É®£HÙRMAJORZ
+CODE_SMELL
+€squid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHÚRMINORZ
+CODE_SMELL
+…squid:S00117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHÛRMINORZ
+CODE_SMELL
+Jsquid:S1643ö"Use a StringBuilder instead.(÷ğÕ”HÜRMINORZ
+CODE_SMELL
+—squid:S1192h"gDefine a constant instead of duplicating this literal "  public.t_sgt_tipo_requerimiento, \n" 11 times.(Åû½ÁHİRCRITICALZ
+CODE_SMELL
+`squid:S1172·"-Remove this unused method parameter "nombre".(ßı±ÈúÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ûÙ´9HßRMAJORZ
+CODE_SMELL
+…squid:S00117·
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹ÇìşÿÿÿÿHàRMINORZ
+CODE_SMELL
+Jsquid:S1643‘"Use a StringBuilder instead.(¶º¶HáRMINORZ
+CODE_SMELL
+Jsquid:S1643Õ	"Use a StringBuilder instead.(÷ğÕ”HâRMINORZ
+CODE_SMELL
+Jsquid:S1643‡"Use a StringBuilder instead.(§Œ­èHãRMINORZ
+CODE_SMELL
+Vsquid:S2095ø"-Close this "Statement" in a "finally" clause.(ÀŠõÌHäRBLOCKERZBUG
+squid:S1192"KDefine a constant instead of duplicating this literal "    <tr>\n" 5 times.(‡ô€…øÿÿÿÿHåRCRITICALZ
+CODE_SMELL
+€squid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÉ³‘HæRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(ûÙ´9HçRMAJORZ
+CODE_SMELL
+Jsquid:S1643Å"Use a StringBuilder instead.(¶º¶HèRMINORZ
+CODE_SMELL
+Jsquid:S1643—"Use a StringBuilder instead.(¾Èé½HéRMINORZ
+CODE_SMELL
+Xsquid:S00108½")Either remove or fill this block of code.(É®£HêRMAJORZ
+CODE_SMELL
+Jsquid:S1643‰"Use a StringBuilder instead.(¶º¶HëRMINORZ
+CODE_SMELL
+Osquid:S1643ˆ"Use a StringBuilder instead.(‹ú‘õüÿÿÿÿHìRMINORZ
+CODE_SMELL
+Osquid:S1643æ"Use a StringBuilder instead.(Éä¥æşÿÿÿÿHíRMINORZ
+CODE_SMELL
+Isquid:S1643í"Use a StringBuilder instead.(êŒZHîRMINORZ
+CODE_SMELL
+Osquid:S1643‹"Use a StringBuilder instead.(×ˆø øÿÿÿÿHïRMINORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(«‘‚¦HğRMINORZ
+CODE_SMELL
+Usquid:S2095,"-Close this "Statement" in a "finally" clause.(œïì”HñRBLOCKERZBUG
+€squid:S1192~"PDefine a constant instead of duplicating this literal "sgt_desc_status" 8 times.(Íí°·HòRCRITICALZ
+CODE_SMELL
+€squid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÎöHóRMINORZ
+CODE_SMELL
+Osquid:S1643Š"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHôRMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(Ÿ‰ÇãşÿÿÿÿHõRMINORZ
+CODE_SMELL
+Jsquid:S1643š"Use a StringBuilder instead.(Æ¥şæHöRMINORZ
+CODE_SMELL
+‹squid:S1192æ"ÙDefine a constant instead of duplicating this literal "<img src='sgt_imagenes/check.png' alt='' title=\"Solicitud de Cambio Aprobada\" style='position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(††ó£H÷RCRITICALZ
+CODE_SMELL
+…squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä ÅŞüÿÿÿÿHøRMINORZ
+CODE_SMELL
+Isquid:S2178¸"Correct this "&" to "&&".(œÕÓHùRBLOCKERZ
+CODE_SMELL
+Osquid:S1643õ"Use a StringBuilder instead.(ü¥ûòûÿÿÿÿHúRMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(£èÃ¸ûÿÿÿÿHûRMINORZ
+CODE_SMELL
+Osquid:S1643¹"Use a StringBuilder instead.(©©»üÿÿÿÿHüRMINORZ
+CODE_SMELL
+€squid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆHıRMINORZ
+CODE_SMELL
+k
+squid:S106ô
+"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿHşRMAJORZ
+CODE_SMELL
+esquid:S1172²"2Remove this unused method parameter "usuario_log".(éš’ŸşÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+Jsquid:S1643‘"Use a StringBuilder instead.(ÆŞ«­H€RMINORZ
+CODE_SMELL
+Osquid:S1643¦"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHRMINORZ
+CODE_SMELL
+squid:S1192ì"×Define a constant instead of duplicating this literal "<img src='sgt_imagenes/finish.png' alt='' title=\"Requerimiento finalizado\" style=' position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(­–“ÁúÿÿÿÿH‚RCRITICALZ
+CODE_SMELL
+Isquid:S2178Ì"Correct this "&" to "&&".(œÕÓHƒRBLOCKERZ
+CODE_SMELL
+Xsquid:S00108Á")Either remove or fill this block of code.(É®£H„RMAJORZ
+CODE_SMELL
+Jsquid:S1643—"Use a StringBuilder instead.(Æ¥şæH…RMINORZ
+CODE_SMELL
+Jsquid:S1643è"Use a StringBuilder instead.(½¯¸£H†RMINORZ
+CODE_SMELL
+squid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛH‡RMINORZ
+CODE_SMELL
+«squid:S1192³"zDefine a constant instead of duplicating this literal "    <th class='cabeceraArea' id='nom'>Nombre Usuario</th>" 3 times.(®ØÈ¼HˆRCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(×œéƒùÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+€squid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡©ıHŠRMINORZ
+CODE_SMELL
+…squid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¢”ÅşÿÿÿÿH‹RMINORZ
+CODE_SMELL
+esquid:S2589‹"7Remove this expression which always evaluates to "true"(“ğãüHŒRMAJORZ
+CODE_SMELL
+Osquid:S1643É	"Use a StringBuilder instead.(×ˆø øÿÿÿÿHRMINORZ
+CODE_SMELL
+®squid:S1192¨	"}Define a constant instead of duplicating this literal "  vv_personal.per_depart = vv_departamento.dep_cod_dpto AND " 3 times.(ƒ÷—ßHRCRITICALZ
+CODE_SMELL
+Xsquid:S00108ò")Either remove or fill this block of code.(É®£HRMAJORZ
+CODE_SMELL
+Jsquid:S1643ö"Use a StringBuilder instead.(æÃúÏHRMINORZ
+CODE_SMELL
+Osquid:S1643ˆ"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH‘RMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH’RMINORZ
+CODE_SMELL
+‡squid:S1192¬"WDefine a constant instead of duplicating this literal "Loader:: SQLException " 4 times.(“Ÿİ=H“RCRITICALZ
+CODE_SMELL
+½squid:S1192Ø	"‹Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>Tipo Requerimiento:</td>" 4 times.(Æ¥şæH”RCRITICALZ
+CODE_SMELL
+Osquid:S1643ñ"Use a StringBuilder instead.(òùéÍûÿÿÿÿH•RMINORZ
+CODE_SMELL
+€squid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÎöH–RMINORZ
+CODE_SMELL
+€squid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸŞáH—RMINORZ
+CODE_SMELL
+Osquid:S1643†"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH˜RMINORZ
+CODE_SMELL
+Jsquid:S1643•"Use a StringBuilder instead.(¶º¶H™RMINORZ
+CODE_SMELL
+…squid:S2077	"RUse a variable binding mechanism to construct this query instead of concatenation.(Û§ôªHšRBLOCKERZVULNERABILITY
+Osquid:S1643ì"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH›RMINORZ
+CODE_SMELL
+squid:S1192^"]Define a constant instead of duplicating this literal "  sgt_cod_requerimiento, \n" 13 times.(„§¾£HœRCRITICALZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(™™à>HRMAJORZ
+CODE_SMELL
+€squid:S00117¹	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íí°·HRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òÜã¢úÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+‡squid:S1192¾"QDefine a constant instead of duplicating this literal "SQL PENDIENTES: " 8 times.(ø©É“ıÿÿÿÿH RCRITICALZ
+CODE_SMELL
+€squid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH¡RMINORZ
+CODE_SMELL
+Osquid:S1643×	"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH¢RMINORZ
+CODE_SMELL
+Osquid:S1643Ÿ"Use a StringBuilder instead.( ò‘ıÿÿÿÿH£RMINORZ
+CODE_SMELL
+Xsquid:S00108Ÿ")Either remove or fill this block of code.(É®£H¤RMAJORZ
+CODE_SMELL
+Osquid:S1643Ô	"Use a StringBuilder instead.(ü¥ûòûÿÿÿÿH¥RMINORZ
+CODE_SMELL
+€squid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH¦RMINORZ
+CODE_SMELL
+Jsquid:S1643Ø"Use a StringBuilder instead.(ú‡îƒH§RMINORZ
+CODE_SMELL
+¥squid:S1192²"oDefine a constant instead of duplicating this literal "    <th class='cabeceraArea' id='cod'>NÂ°</th>" 3 times.(ƒ‰ñ—şÿÿÿÿH¨RCRITICALZ
+CODE_SMELL
+Ysquid:S1148Ì"#Use a logger to log this exception.(¸Õª¿şÿÿÿÿH©RMINORZVULNERABILITY
+Jsquid:S1643"Use a StringBuilder instead.(¡é²HªRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(òÜã¢úÿÿÿÿH«RMAJORZ
+CODE_SMELL
+€squid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆH¬RMINORZ
+CODE_SMELL
+Osquid:S1643ê"Use a StringBuilder instead.(×ˆø øÿÿÿÿH­RMINORZ
+CODE_SMELL
+…squid:S2077½"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞH®RBLOCKERZVULNERABILITY
+Osquid:S1643½"Use a StringBuilder instead.(ºšÔ¯şÿÿÿÿH¯RMINORZ
+CODE_SMELL
+Ãsquid:S1192ş"‘Define a constant instead of duplicating this literal "<td class='cabeceraArea' style='width: 550px; text-align: center;'>Detalles</td>" 4 times.(›•›H°RCRITICALZ
+CODE_SMELL
+Ysquid:S1148
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH±RMINORZVULNERABILITY
+Osquid:S1643±"Use a StringBuilder instead.(ı«›•ıÿÿÿÿH²RMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûÙ´9H³RMAJORZ
+CODE_SMELL
+…squid:S2077ó"RUse a variable binding mechanism to construct this query instead of concatenation.(ŠÔĞH´RBLOCKERZVULNERABILITY
+€squid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ³˜­HµRMINORZ
+CODE_SMELL
+e
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(¦wH¶RMAJORZ
+CODE_SMELL
+Xsquid:S00108ó")Either remove or fill this block of code.(É®£H·RMAJORZ
+CODE_SMELL
+{squid:S1192„
+"JDefine a constant instead of duplicating this literal "</select>" 5 times.(ËÅËÍH¸RCRITICALZ
+CODE_SMELL
+Vsquid:S2095â"-Close this "Statement" in a "finally" clause.(ÀŠõÌH¹RBLOCKERZBUG
+k
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(ø©É“ıÿÿÿÿHºRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ğ§•şùÿÿÿÿH»RMAJORZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(›Ã¹ÆH¼RMINORZ
+CODE_SMELL
+Jsquid:S1643Ë"Use a StringBuilder instead.(ÎÆÚ­H½RMINORZ
+CODE_SMELL
+Osquid:S1643½"Use a StringBuilder instead.(æµÅèÿÿÿÿÿH¾RMINORZ
+CODE_SMELL
+€squid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÉ³‘H¿RMINORZ
+CODE_SMELL
+…squid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHÀRMINORZ
+CODE_SMELL
+Ysquid:S1148İ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÁRMINORZVULNERABILITY
+„squid:S00117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHÂRMINORZ
+CODE_SMELL
+€squid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«ÓşHÃRMINORZ
+CODE_SMELL
+Osquid:S1643¬"Use a StringBuilder instead.(›ı‰¶şÿÿÿÿHÄRMINORZ
+CODE_SMELL
+„squid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¶ì¹şÿÿÿÿHÅRMINORZ
+CODE_SMELL
+èsquid:S1192"±Define a constant instead of duplicating this literal "<img src='sgt_imagenes/finish.png' alt='' title=\"Requerimiento finalizado\" style='width: 20px; height: 20px;'>" 4 times.(òùéÍûÿÿÿÿHÆRCRITICALZ
+CODE_SMELL
+squid:S1192£	"ZDefine a constant instead of duplicating this literal "  public.vv_departamento " 3 times.(äïƒÉøÿÿÿÿHÇRCRITICALZ
+CODE_SMELL
+…squid:S00117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä ÅŞüÿÿÿÿHÈRMINORZ
+CODE_SMELL
+Osquid:S1643©"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHÉRMINORZ
+CODE_SMELL
+Osquid:S1643•"Use a StringBuilder instead.(®ù©‰şÿÿÿÿHÊRMINORZ
+CODE_SMELL
+Jsquid:S1643ë	"Use a StringBuilder instead.(™Îâ²HËRMINORZ
+CODE_SMELL
+€squid:S1192ƒ	"ODefine a constant instead of duplicating this literal "  per_nombre\n" 4 times.(ÓÁçÍHÌRCRITICALZ
+CODE_SMELL
+}squid:S1192"GDefine a constant instead of duplicating this literal "</td>" 79 times.(í¦ËİÿÿÿÿÿHÍRCRITICALZ
+CODE_SMELL
+Vsquid:S2095"-Close this "Statement" in a "finally" clause.(ÀŠõÌHÎRBLOCKERZBUG
+©squid:S1192"xDefine a constant instead of duplicating this literal "<label id='rPendiente'>Pendiente por DecisiÃ³n </label>" 3 times.(“åŸ„HÏRCRITICALZ
+CODE_SMELL
+Xsquid:S00108‰")Either remove or fill this block of code.(É®£HĞRMAJORZ
+CODE_SMELL
+Jsquid:S1643â"Use a StringBuilder instead.(¶º¶HÑRMINORZ
+CODE_SMELL
+Ysquid:S1148»"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÒRMINORZVULNERABILITY
+€squid:S00117·	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHÓRMINORZ
+CODE_SMELL
+Isquid:S2178œ"Correct this "&" to "&&".(œÕÓHÔRBLOCKERZ
+CODE_SMELL
+Jsquid:S1643ô"Use a StringBuilder instead.(¾Èé½HÕRMINORZ
+CODE_SMELL
+Jsquid:S1643á"Use a StringBuilder instead.(£ßÂ‰HÖRMINORZ
+CODE_SMELL
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Üª©¼úÿÿÿÿH×RMAJORZ
+CODE_SMELL
+…squid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¸Ö§úÿÿÿÿHØRMINORZ
+CODE_SMELL
+}squid:S1192"GDefine a constant instead of duplicating this literal "<td >" 12 times.(í¦ËİÿÿÿÿÿHÙRCRITICALZ
+CODE_SMELL
+°squid:S1192›"zDefine a constant instead of duplicating this literal "                              sgt_cod_requerimiento DESC;" 3 times.(ÈŸ©ëûÿÿÿÿHÚRCRITICALZ
+CODE_SMELL
+Osquid:S1643«"Use a StringBuilder instead.(Œ‘¾ŞÿÿÿÿÿHÛRMINORZ
+CODE_SMELL
+squid:S1192î"İDefine a constant instead of duplicating this literal "<img src='sgt_imagenes/prosess.png' alt='' title=\"Solicitud de Cambio Rechazado\" style=' position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(ú‡îƒHÜRCRITICALZ
+CODE_SMELL
+Jsquid:S1643£"Use a StringBuilder instead.(ú‡îƒHİRMINORZ
+CODE_SMELL
+Osquid:S1643"Use a StringBuilder instead.(ı«›•ıÿÿÿÿHŞRMINORZ
+CODE_SMELL
+squid:S1192ê"×Define a constant instead of duplicating this literal "<img src='sgt_imagenes/cancel2.png' alt='' title=\"Requerimiento cancelado\" style=' position:absolute; margin-left:15px; width: 20px; height: 20px;'>" 4 times.(ç»¹ÃúÿÿÿÿHßRCRITICALZ
+CODE_SMELL
+’squid:S1192ï"\Define a constant instead of duplicating this literal "                    </tr>\n" 4 times.(úÒ¶ÿÿÿÿÿHàRCRITICALZ
+CODE_SMELL
+Vsquid:S2095Ì
+"-Close this "ResultSet" in a "finally" clause.(Û§ôªHáRBLOCKERZBUG
+€squid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ˆïÆHâRMINORZ
+CODE_SMELL
+Ásquid:S1192™"ŠDefine a constant instead of duplicating this literal "' class='editarArea' title='Ver Detalles y Editar Status' ></button></td>" 9 times.(—Ñ‹‡ıÿÿÿÿHãRCRITICALZ
+CODE_SMELL
+Ysquid:S1148ı"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHäRMINORZVULNERABILITY
+…squid:S00117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÛå×øÿÿÿÿHåRMINORZ
+CODE_SMELL
+Jsquid:S1643´"Use a StringBuilder instead.(ÎÅ‚âHæRMINORZ
+CODE_SMELL
+Jsquid:S1643÷"Use a StringBuilder instead.(ğôÑHçRMINORZ
+CODE_SMELL
+ squid:S1192·"jDefine a constant instead of duplicating this literal "<th class='cabeceraArea' id='edit'>+</th>" 3 times.(†ïêÉùÿÿÿÿHèRCRITICALZ
+CODE_SMELL
+€squid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÆÑÛHéRMINORZ
+CODE_SMELL
+squid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØ«nHêRMINORZ
+CODE_SMELL
+…squid:S00117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ”ŸüÿÿÿÿHëRMINORZ
+CODE_SMELL
+squid:S00117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±«HìRMINORZ
+CODE_SMELL
+Osquid:S1643“"Use a StringBuilder instead.(ºšÔ¯şÿÿÿÿHíRMINORZ
+CODE_SMELL
+Osquid:S1643ê"Use a StringBuilder instead.(ç»¹ÃúÿÿÿÿHîRMINORZ
+CODE_SMELL
+e
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(“Ÿİ=HïRMAJORZ
+CODE_SMELL
+Jsquid:S1643”"Use a StringBuilder instead.(¶º¶HğRMINORZ
+CODE_SMELL
+Isquid:S2178û"Correct this "&" to "&&".(œÕÓHñRBLOCKERZ
+CODE_SMELL
+ãsquid:S1192ò"¬Define a constant instead of duplicating this literal "                        <td  style=\" padding: 5px; width:225px; text-align: left; font:14px sans-serif;\">" 3 times.(§óÂçøÿÿÿÿHòRCRITICALZ
+CODE_SMELL
+€squid:S1192ç"JDefine a constant instead of duplicating this literal "</option>" 3 times.(Ÿ—œ„ùÿÿÿÿHóRCRITICALZ
+CODE_SMELL
+Osquid:S1643ú"Use a StringBuilder instead.(äÂçèúÿÿÿÿHôRMINORZ
+CODE_SMELL
+¸squid:S1192ğ	"Define a constant instead of duplicating this literal "<td class='detalleArea' style='text-align: left;'>Urgencia:</td>" 4 times.(Œ‘¾ŞÿÿÿÿÿHõRCRITICALZ
+CODE_SMELL
+…squid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹ÇìşÿÿÿÿHöRMINORZ
+CODE_SMELL
+Jsquid:S1643¿"Use a StringBuilder instead.(ğôÑH÷RMINORZ
+CODE_SMELL
+Jsquid:S1643‹"Use a StringBuilder instead.(ùùÜÈHøRMINORZ
+CODE_SMELL
+Vsquid:S2095Ë
+"-Close this "Statement" in a "finally" clause.(ÀŠõÌHùRBLOCKERZBUG
+Vsquid:S2095Ë"-Close this "Statement" in a "finally" clause.(ÀŠõÌHúRBLOCKERZBUG
+~squid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(í™âêüÿÿÿÿHûRMAJORZ
+CODE_SMELL
+€squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡©ıHüRMINORZ
+CODE_SMELL
