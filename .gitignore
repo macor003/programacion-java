@@ -8,7 +8,8 @@ tmp/
 local.properties
 .settings/
 .loadpath
-.recommenders
+.sonarlint
+.vscode
 
 # External tool builders
 .externalToolBuilders/
