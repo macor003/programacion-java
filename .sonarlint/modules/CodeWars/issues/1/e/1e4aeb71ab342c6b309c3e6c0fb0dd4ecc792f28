@@ -1,0 +1,31 @@
+
+`squid:EmptyStatementUsageCheck'"Remove this empty statement.(≈Ò≠ı˛ˇˇˇˇHRMINORZ
+CODE_SMELL
+}squid:S1192"NDefine a constant instead of duplicating this literal "Player 1 won!" 3 times.(ûÅ≥—HRCRITICALZ
+CODE_SMELL
+xsquid:S1192"IDefine a constant instead of duplicating this literal "scissors" 3 times.(≥ıîƒHRCRITICALZ
+CODE_SMELL
+c
+squid:S106"9Replace this use of System.out or System.err by a logger.(—®¢6HRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÅ≥—HRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÅ≥—HRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÅ≥—HRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î˘àâH	RMAJORZ
+CODE_SMELL
+c
+squid:S106#"9Replace this use of System.out or System.err by a logger.(—®¢6H
+RMAJORZ
+CODE_SMELL
+d
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ôı∂ÅHRMAJORZ
+CODE_SMELL
+Ñsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¶ô¸∆HRMINORZ
+CODE_SMELL
