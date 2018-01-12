@@ -1,22 +1,0 @@
-
-„squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¦™üÆHbRMINORZ
-CODE_SMELL
-^squid:S1481"+Remove this unused "really" local variable.(é±É8‡§Í™‚,HcRMINORZ
-CODE_SMELL
-msquid:S1854":Remove this useless assignment to local variable "really".(²üø“8‡§Í™‚,HdRMAJORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ8Úîš‚,HeRMAJORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(äã–8Ôò¨š‚,HfRMAJORZ
-CODE_SMELL
-`squid:S1481"-Remove this unused "pangram1" local variable.(ë¹8œËš‚,HgRMINORZ
-CODE_SMELL
-osquid:S1854"<Remove this useless assignment to local variable "pangram1".(ë¹8œËš‚,HhRMAJORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(Âˆöä8Úîš‚,HiRMAJORZ
-CODE_SMELL
-rsquid:S1854":Remove this useless assignment to local variable "really".(Ÿ‡Ïûúÿÿÿÿ8‡§Í™‚,HjRMAJORZ
-CODE_SMELL
