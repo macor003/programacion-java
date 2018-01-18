@@ -59,7 +59,7 @@ public class SumConsecutives {
 	 */
 	public static LinkedList<Integer> bestPractice(List<Integer> s) {
 		int previous = Integer.MAX_VALUE;
-		LinkedList<Integer> l = new LinkedList<>();
+		LinkedList<Integer> l = new LinkedList<Integer>();
 
 		for (Integer v : s) {
 			System.out.println("PREVIOUS: " + previous);
@@ -71,7 +71,7 @@ public class SumConsecutives {
 	}
 
 	public static void practica(List<Integer> list) {
-		LinkedList<Integer> l = new LinkedList<>();
+		LinkedList<Integer> l = new LinkedList<Integer>();
 		for (Integer num : list) {
 			l.add(num);
 			System.out.println("pollLast: " + l.pollLast());
